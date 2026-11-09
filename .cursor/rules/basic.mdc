@@ -1,0 +1,43 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+
+## Roles
+- Respect the separation of concerns between models, repositories, and business logic
+- Use consistent error handling patterns
+- When naming the package of files, use the form: "moduleName_(models, dtos, handler, ...)"
+- When naming folders, use hyphens between words (e.g., plan-features)
+- When naming a file, use - between words
+- No need for seed data
+- In BSON and JSON naming, use camelCase (e.g., bson:"isFilterable" json:"isFilterable")
+- Make sure to follow function parameters and responses inside service repository declarations when implementing the base module
+- Create a repository interface in the service to declare function types and return types
+- Create an injector similar to other modules
+- Follow the structure and core implementation similar to existing modules (like category) to maintain consistent application structure and declaration patterns
+- Create Dto for create the model 
+- if you need to use enums, put them inside an eums folder in the module
+- Naming a file must be realted to our forms like; model file should be "modelName.model.go" same for repo "repoName.repo.go" also for dto, injector, enums, filter, handler, utils and service.
+- In general when we creat new module we will need the following folders and files (dtos, enums, filters, handlers, models, repos, services) and an injector file.
+- When you build the handler file, make sure to make it similer to form we use it in other modules.
+- Dont naming ID name it like Id
+- when naming and id use the form of Id instead of ID
+
+
+## Notes
+- When create a model make sure to create a (create Dto and Update Dto), and create a convert function inside the service to convert from dto to model. you should also default set the base model data in the converter function. the converter function should be similar to this one 
+```
+func convertCreateGroupDTOToModel(dto *feature_dto.CreateFeatureGroupDTO, ctx context.Context) (feature_models.FeatureGroupModel, *helpers.ApiError) {
+	now := time.Now()
+
+	cfg, err := util.GetReqAppCfg(ctx)
+	if err != nil {
+		return feature_models.FeatureGroupModel{}, &helpers.ApiError{
+			StatusCode: 500,
+			Message:    "GetReqAppCfg went wrong",
+		}
+	}
+   
+   userId := cfg.User.Id
+```

@@ -1,0 +1,3292 @@
+[
+  {
+    "_id": "67d9999915f22cb347f043bc",
+    "name": "Environmental Consulting",
+    "description": "Expert environmental consulting providing sustainable solutions and compliance strategies.",
+    "parentId": "67d998fc15f22cb347f043b8",
+    "translations": {
+      "ar": {
+        "name": "الاستشارات البيئية",
+        "description": "استشارات بيئية متخصصة تقدم حلولاً مستدامة واستراتيجيات للامتثال البيئي."
+      },
+      "en": {
+        "name": "Environmental Consulting",
+        "description": "Expert environmental consulting providing sustainable solutions and compliance strategies."
+      }
+    }
+  },
+  {
+    "_id": "67d9997715f22cb347f043bb",
+    "name": "Real Estate Services",
+    "description": "Professional real estate services offering effective property solutions and investments.",
+    "parentId": "67d998fc15f22cb347f043b8",
+    "translations": {
+      "ar": {
+        "name": "الخدمات العقارية",
+        "description": "خدمات عقارية احترافية تقدم حلولاً فعالة للممتلكات والاستثمارات العقارية."
+      },
+      "en": {
+        "name": "Real Estate Services",
+        "description": "Professional real estate services offering effective property solutions and investments."
+      }
+    }
+  },
+  {
+    "_id": "67d9995315f22cb347f043ba",
+    "name": "Medical Tourism",
+    "description": "Reliable medical tourism services, connecting patients with quality healthcare abroad.",
+    "parentId": "67d998fc15f22cb347f043b8",
+    "translations": {
+      "ar": {
+        "name": "السياحة العلاجية",
+        "description": "خدمات سياحة علاجية موثوقة تربط المرضى برعاية صحية عالية الجودة في الخارج."
+      },
+      "en": {
+        "name": "Medical Tourism",
+        "description": "Reliable medical tourism services, connecting patients with quality healthcare abroad."
+      }
+    }
+  },
+  {
+    "_id": "67d9993515f22cb347f043b9",
+    "name": "Tourism Services",
+    "description": "Expert tourism services providing memorable travel experiences and efficient planning.",
+    "parentId": "67d998fc15f22cb347f043b8",
+    "translations": {
+      "ar": {
+        "name": "خدمات السياحة",
+        "description": "خدمات سياحية احترافية توفر تجارب سفر مميزة وتخطيطاً فعّالاً."
+      },
+      "en": {
+        "name": "Tourism Services",
+        "description": "Expert tourism services providing memorable travel experiences and efficient planning."
+      }
+    }
+  },
+  {
+    "_id": "67d998fc15f22cb347f043b8",
+    "name": "Business Services",
+    "description": "Professional business services supporting growth, efficiency, and operational success.",
+    "icon": "67f4c448bc84c023409f499d",
+    "iconFile": {
+      "_id": "67f4c448bc84c023409f499d",
+      "path": "http://services.larsa.io/files/file/ctlasuc5drjs73c4p7v0/2025/4/1fbcf311-aa54-4afb-939a-38f3cb542a98.png"
+    },
+    "picture": "67f4c4636d07fba52168357d",
+    "pictureFile": {
+      "_id": "67f4c4636d07fba52168357d",
+      "path": "http://services.larsa.io/files/file/ctlasuc5drjs73c4p7v0/2025/4/c1924498-b14d-4723-80fb-9d27da7a736a.png"
+    },
+    "translations": {
+      "ar": {
+        "name": "خدمات الأعمال",
+        "description": "خدمات أعمال احترافية تدعم النمو والكفاءة والنجاح التشغيلي."
+      },
+      "en": {
+        "name": "Business Services",
+        "description": "Professional business services supporting growth, efficiency, and operational success."
+      }
+    }
+  },
+  {
+    "_id": "67d998cc15f22cb347f043b7",
+    "name": "Hair Care",
+    "description": "Professional hair care products ensuring healthy, shiny, and beautiful hair.",
+    "parentId": "67d9984915f22cb347f043b3",
+    "translations": {
+      "ar": {
+        "name": "العناية بالشعر",
+        "description": "منتجات احترافية للعناية بالشعر تضمن الحصول على شعر صحي ولامع وجميل."
+      },
+      "en": {
+        "name": "Hair Care",
+        "description": "Professional hair care products ensuring healthy, shiny, and beautiful hair."
+      }
+    }
+  },
+  {
+    "_id": "67d998ac15f22cb347f043b6",
+    "name": "Skin Care",
+    "description": "Effective skincare products providing hydration, protection, and youthful radiance.",
+    "parentId": "67d9984915f22cb347f043b3",
+    "translations": {
+      "ar": {
+        "name": "العناية بالبشرة",
+        "description": "منتجات فعالة للعناية بالبشرة توفر الترطيب والحماية والنضارة والشباب."
+      },
+      "en": {
+        "name": "Skin Care",
+        "description": "Effective skincare products providing hydration, protection, and youthful radiance."
+      }
+    }
+  },
+  {
+    "_id": "67d9988e15f22cb347f043b5",
+    "name": "Cosmetics",
+    "description": "Quality cosmetics enhancing beauty, confidence, and personal appearance.",
+    "parentId": "67d9984915f22cb347f043b3",
+    "translations": {
+      "ar": {
+        "name": "مستحضرات التجميل",
+        "description": "مستحضرات تجميل عالية الجودة تُعزز الجمال والثقة والمظهر الشخصي."
+      },
+      "en": {
+        "name": "Cosmetics",
+        "description": "Quality cosmetics enhancing beauty, confidence, and personal appearance."
+      }
+    }
+  },
+  {
+    "_id": "67d9986515f22cb347f043b4",
+    "name": "Baby Supplies and Products",
+    "description": "Safe, gentle baby products ensuring comfort, hygiene, and care for infants.",
+    "parentId": "67d9984915f22cb347f043b3",
+    "translations": {
+      "ar": {
+        "name": "مستلزمات ومنتجات الأطفال",
+        "description": "مستلزمات ومنتجات أطفال آمنة ولطيفة تضمن الراحة والنظافة والعناية بالرضع."
+      },
+      "en": {
+        "name": "Baby Supplies and Products",
+        "description": "Safe, gentle baby products ensuring comfort, hygiene, and care for infants."
+      }
+    }
+  },
+  {
+    "_id": "67d9984915f22cb347f043b3",
+    "name": "Beauty and Skin Care Products",
+    "description": "Premium beauty and skincare products designed for optimal personal care and wellness.",
+    "picture": "67f641ba2772173d99e8baed",
+    "pictureFile": {
+      "_id": "67f641ba2772173d99e8baed",
+      "path": "http://services.larsa.io/files/file/ctlasuc5drjs73c4p7v0/2025/4/849b6e91-e71a-4465-901e-513b68a98dfb.webp"
+    },
+    "translations": {
+      "ar": {
+        "name": "منتجات التجميل والعناية بالبشرة",
+        "description": "منتجات تجميل وعناية بالبشرة مميزة مصممة للعناية الشخصية المثالية والرفاهية."
+      },
+      "en": {
+        "name": "Beauty and Skin Care Products",
+        "description": "Premium beauty and skincare products designed for optimal personal care and wellness."
+      }
+    }
+  },
+  {
+    "_id": "67d9980715f22cb347f043b2",
+    "name": "Home Perfumes",
+    "description": "Refreshing home perfumes creating welcoming atmospheres and comforting spaces.",
+    "parentId": "67d997b315f22cb347f043af",
+    "translations": {
+      "ar": {
+        "name": "العطور المنزلية",
+        "description": "عطور منزلية منعشة تخلق أجواء ترحيبية ومساحات مريحة."
+      },
+      "en": {
+        "name": "Home Perfumes",
+        "description": "Refreshing home perfumes creating welcoming atmospheres and comforting spaces."
+      }
+    }
+  },
+  {
+    "_id": "67d997e815f22cb347f043b1",
+    "name": "Women's Perfumes",
+    "description": "Elegant women's perfumes enhancing femininity with captivating, lasting scents.",
+    "parentId": "67d997b315f22cb347f043af",
+    "translations": {
+      "ar": {
+        "name": "العطور النسائية",
+        "description": "عطور نسائية أنيقة تُبرز الأنوثة بروائح جذابة تدوم طويلاً."
+      },
+      "en": {
+        "name": "Women's Perfumes",
+        "description": "Elegant women's perfumes enhancing femininity with captivating, lasting scents."
+      }
+    }
+  },
+  {
+    "_id": "67d997cc15f22cb347f043b0",
+    "name": "Men's Perfumes",
+    "description": "Sophisticated men's perfumes blending elegance, strength, and long-lasting fragrance.",
+    "parentId": "67d997b315f22cb347f043af",
+    "translations": {
+      "ar": {
+        "name": "العطور الرجالية",
+        "description": "عطور رجالية راقية تجمع بين الأناقة والقوة والرائحة التي تدوم طويلاً."
+      },
+      "en": {
+        "name": "Men's Perfumes",
+        "description": "Sophisticated men's perfumes blending elegance, strength, and long-lasting fragrance."
+      }
+    }
+  },
+  {
+    "_id": "67d997b315f22cb347f043af",
+    "name": "Perfumes",
+    "description": "Distinctive perfumes offering luxurious fragrances for personal and home use.",
+    "parentId": "67d95600f6e530beabf353c2",
+    "translations": {
+      "ar": {
+        "name": "العطور",
+        "description": "عطور مميزة تقدم روائح فاخرة للاستخدام الشخصي والمنزلي."
+      },
+      "en": {
+        "name": "Perfumes",
+        "description": "Distinctive perfumes offering luxurious fragrances for personal and home use."
+      }
+    }
+  },
+  {
+    "_id": "67d9975415f22cb347f043ae",
+    "name": "Home Watches",
+    "description": "Decorative home clocks enhancing interior aesthetics, practicality, and comfort.",
+    "parentId": "67d994bb15f22cb347f043a8",
+    "translations": {
+      "ar": {
+        "name": "الساعات المنزلية",
+        "description": "ساعات منزلية ديكورية تُعزز جمال التصميم الداخلي والعملية والراحة."
+      },
+      "en": {
+        "name": "Home Watches",
+        "description": "Decorative home clocks enhancing interior aesthetics, practicality, and comfort."
+      }
+    }
+  },
+  {
+    "_id": "67d9973215f22cb347f043ad",
+    "name": "Women's Watches",
+    "description": "Elegant women's watches offering beauty, functionality, and timeless style.",
+    "parentId": "67d994bb15f22cb347f043a8",
+    "translations": {
+      "ar": {
+        "name": "الساعات النسائية",
+        "description": "ساعات نسائية أنيقة توفر الجمال والوظيفية والأسلوب العصري."
+      },
+      "en": {
+        "name": "Women's Watches",
+        "description": "Elegant women's watches offering beauty, functionality, and timeless style."
+      }
+    }
+  },
+  {
+    "_id": "67d9971315f22cb347f043ac",
+    "name": "Men's Watches",
+    "description": "Distinctive men's watches combining precision, durability, and sophisticated design.",
+    "parentId": "67d994bb15f22cb347f043a8",
+    "translations": {
+      "ar": {
+        "name": "الساعات الرجالية",
+        "description": "ساعات رجالية مميزة تجمع بين الدقة والمتانة والتصميم الراقي."
+      },
+      "en": {
+        "name": "Men's Watches",
+        "description": "Distinctive men's watches combining precision, durability, and sophisticated design."
+      }
+    }
+  },
+  {
+    "_id": "67d9969a15f22cb347f043ab",
+    "name": "Women's Glasses",
+    "description": "Elegant women's eyewear designed for style, clear vision, and daily comfort.",
+    "parentId": "67d995a915f22cb347f043a9",
+    "translations": {
+      "ar": {
+        "name": "النظارات النسائية",
+        "description": "نظارات نسائية أنيقة مصممة للجاذبية ووضوح الرؤية والراحة اليومية."
+      },
+      "en": {
+        "name": "Women's Glasses",
+        "description": "Elegant women's eyewear designed for style, clear vision, and daily comfort."
+      }
+    }
+  },
+  {
+    "_id": "67d9964215f22cb347f043aa",
+    "name": "Men's Glasses",
+    "description": "Fashionable men's eyewear combining style, durability, and superior comfort.",
+    "parentId": "67d995a915f22cb347f043a9",
+    "translations": {
+      "ar": {
+        "name": "النظارات الرجالية",
+        "description": "نظارات رجالية عصرية تجمع بين الأناقة والمتانة والراحة الفائقة."
+      },
+      "en": {
+        "name": "Men's Glasses",
+        "description": "Fashionable men's eyewear combining style, durability, and superior comfort."
+      }
+    }
+  },
+  {
+    "_id": "67d995a915f22cb347f043a9",
+    "name": "Glasses",
+    "description": "Stylish, durable glasses offering clear vision, comfort, and fashionable appeal.",
+    "parentId": "67d992ec15f22cb347f043a4",
+    "translations": {
+      "ar": {
+        "name": "النظارات",
+        "description": "نظارات أنيقة ومتينة توفر وضوح الرؤية والراحة والجاذبية العصرية."
+      },
+      "en": {
+        "name": "Glasses",
+        "description": "Stylish, durable glasses offering clear vision, comfort, and fashionable appeal."
+      }
+    }
+  },
+  {
+    "_id": "67d994bb15f22cb347f043a8",
+    "name": "Watches",
+    "description": "Stylish, reliable watches blending elegance with functionality for personal and home use.",
+    "parentId": "67d992ec15f22cb347f043a4",
+    "translations": {
+      "ar": {
+        "name": "الساعات",
+        "description": "ساعات أنيقة وموثوقة تجمع بين الأناقة والوظيفية للاستخدام الشخصي والمنزلي."
+      },
+      "en": {
+        "name": "Watches",
+        "description": "Stylish, reliable watches blending elegance with functionality for personal and home use."
+      }
+    }
+  },
+  {
+    "_id": "67d992ec15f22cb347f043a4",
+    "name": "Watches – Glasses",
+    "description": "Elegant watches and glasses, enhancing personal style and functionality.",
+    "parentId": "67d95600f6e530beabf353c2",
+    "translations": {
+      "ar": {
+        "name": "الساعات والنظارات",
+        "description": "ساعات ونظارات أنيقة تُعزز الأناقة الشخصية والوظيفية."
+      },
+      "en": {
+        "name": "Watches – Glasses",
+        "description": "Elegant watches and glasses, enhancing personal style and functionality."
+      }
+    }
+  },
+  {
+    "_id": "67d96c0cf6e530beabf353e3",
+    "name": "Children's",
+    "description": "Comfortable, safe shoes, bags, and belts tailored for children's needs.",
+    "parentId": "67d96b84f6e530beabf353de",
+    "translations": {
+      "ar": {
+        "name": "أطفال",
+        "description": "أحذية وحقائب وأحزمة مريحة وآمنة مصممة خصيصاً للأطفال."
+      },
+      "en": {
+        "name": "Children's",
+        "description": "Comfortable, safe shoes, bags, and belts tailored for children's needs."
+      }
+    }
+  },
+  {
+    "_id": "67d96be5f6e530beabf353e2",
+    "name": "Men's",
+    "description": "Quality men's shoes, bags, and belts emphasizing style and function.",
+    "parentId": "67d96b84f6e530beabf353de",
+    "translations": {
+      "ar": {
+        "name": "رجالية",
+        "description": "أحذية وحقائب وأحزمة رجالية عالية الجودة تركز على الأناقة والوظيفة."
+      },
+      "en": {
+        "name": "Men's",
+        "description": "Quality men's shoes, bags, and belts emphasizing style and function."
+      }
+    }
+  },
+  {
+    "_id": "67d96baef6e530beabf353e1",
+    "name": "Women's",
+    "description": "Stylish shoes, bags, and belts for women designed for elegance and practicality.",
+    "parentId": "67d96b84f6e530beabf353de",
+    "translations": {
+      "ar": {
+        "name": "نسائية",
+        "description": "أحذية وحقائب وأحزمة نسائية أنيقة مصممة للجاذبية والعملية."
+      },
+      "en": {
+        "name": "Women's",
+        "description": "Stylish shoes, bags, and belts for women designed for elegance and practicality."
+      }
+    }
+  },
+  {
+    "_id": "67d96b84f6e530beabf353de",
+    "name": "Shoes, Bags, and Belts",
+    "description": "Fashionable shoes, bags, and belts combining quality, style, and durability.\n\n",
+    "parentId": "67d95600f6e530beabf353c2",
+    "translations": {
+      "ar": {
+        "name": "الأحذية والحقائب والأحزمة",
+        "description": "أحذية وحقائب وأحزمة أنيقة تجمع بين الجودة والأناقة والمتانة."
+      },
+      "en": {
+        "name": "Shoes, Bags, and Belts",
+        "description": "Fashionable shoes, bags, and belts combining quality, style, and durability.\n\n"
+      }
+    }
+  },
+  {
+    "_id": "67d96b65f6e530beabf353dd",
+    "name": "Carpets – Curtains",
+    "description": "Stylish carpets and curtains enhancing home interiors and comfort.",
+    "parentId": "67d96b09f6e530beabf353db",
+    "translations": {
+      "ar": {
+        "name": "السجاد – الستائر",
+        "description": "سجاد وستائر أنيقة تُعزز جمال المنزل والراحة."
+      },
+      "en": {
+        "name": "Carpets – Curtains",
+        "description": "Stylish carpets and curtains enhancing home interiors and comfort."
+      }
+    }
+  },
+  {
+    "_id": "67d96b39f6e530beabf353dc",
+    "name": "Towels – Bed Linen",
+    "description": "Comfortable towels and bed linen, ensuring softness and durability.",
+    "parentId": "67d96b09f6e530beabf353db",
+    "translations": {
+      "ar": {
+        "name": "المناشف – بياضات الأسرّة",
+        "description": "مناشف وبياضات أسرّة مريحة توفر النعومة والمتانة."
+      },
+      "en": {
+        "name": "Towels – Bed Linen",
+        "description": "Comfortable towels and bed linen, ensuring softness and durability."
+      }
+    }
+  },
+  {
+    "_id": "67d96b09f6e530beabf353db",
+    "name": "Home Textiles",
+    "description": "Quality home textiles enhancing comfort and interior aesthetics.\n\n",
+    "parentId": "67d95600f6e530beabf353c2",
+    "translations": {
+      "ar": {
+        "name": "المنسوجات المنزلية",
+        "description": "منسوجات منزلية عالية الجودة تُعزز الراحة والجمال الداخلي."
+      },
+      "en": {
+        "name": "Home Textiles",
+        "description": "Quality home textiles enhancing comfort and interior aesthetics.\n\n"
+      }
+    }
+  },
+  {
+    "_id": "67d96ae3f6e530beabf353da",
+    "name": "Textile Accessories",
+    "description": "Essential textile accessories enhancing garment manufacturing and finishing.",
+    "parentId": "67d969aff6e530beabf353d6",
+    "translations": {
+      "ar": {
+        "name": "إكسسوارات المنسوجات",
+        "description": "إكسسوارات نسيجية أساسية لتعزيز صناعة الملابس والتشطيبات."
+      },
+      "en": {
+        "name": "Textile Accessories",
+        "description": "Essential textile accessories enhancing garment manufacturing and finishing."
+      }
+    }
+  },
+  {
+    "_id": "67d96ab6f6e530beabf353d9",
+    "name": "Fabric",
+    "description": "Premium fabric materials suited for apparel, decoration, and industry.",
+    "parentId": "67d969aff6e530beabf353d6",
+    "translations": {
+      "ar": {
+        "name": "الأقمشة",
+        "description": "أقمشة ممتازة مناسبة لصناعة الملابس والديكور والاستخدامات الصناعية."
+      },
+      "en": {
+        "name": "Fabric",
+        "description": "Premium fabric materials suited for apparel, decoration, and industry."
+      }
+    }
+  },
+  {
+    "_id": "67d96a8ef6e530beabf353d8",
+    "name": "Thread – Yarn – Fibers",
+    "description": "Durable threads, yarns, and fibers essential for quality textiles.",
+    "parentId": "67d969aff6e530beabf353d6",
+    "translations": {
+      "ar": {
+        "name": "الخيوط – الغزول – الألياف",
+        "description": "خيوط وغزول وألياف متينة ضرورية لصناعة منسوجات عالية الجودة."
+      },
+      "en": {
+        "name": "Thread – Yarn – Fibers",
+        "description": "Durable threads, yarns, and fibers essential for quality textiles."
+      }
+    }
+  },
+  {
+    "_id": "67d96a5ff6e530beabf353d7",
+    "name": "Feathers – Fur – Leather",
+    "description": "High-quality feathers, fur, and leather for luxurious textiles and products.",
+    "parentId": "67d969aff6e530beabf353d6",
+    "translations": {
+      "ar": {
+        "name": "الريش – الفراء – الجلود",
+        "description": "ريش وفراء وجلود عالية الجودة لصناعة المنسوجات والمنتجات الفاخرة."
+      },
+      "en": {
+        "name": "Feathers – Fur – Leather",
+        "description": "High-quality feathers, fur, and leather for luxurious textiles and products."
+      }
+    }
+  },
+  {
+    "_id": "67d969aff6e530beabf353d6",
+    "name": "Textile and Raw Textile Materials",
+    "description": "Premium textiles and raw materials supporting diverse manufacturing needs.",
+    "parentId": "67d95600f6e530beabf353c2",
+    "translations": {
+      "ar": {
+        "name": "المنسوجات والمواد الخام النسيجية",
+        "description": "منسوجات ومواد خام نسيجية متميزة تلبي مختلف الاحتياجات التصنيعية."
+      },
+      "en": {
+        "name": "Textile and Raw Textile Materials",
+        "description": "Premium textiles and raw materials supporting diverse manufacturing needs."
+      }
+    }
+  },
+  {
+    "_id": "67d9697cf6e530beabf353d5",
+    "name": "Scarf, Hat, and Glove Sets",
+    "description": "Stylish scarf, hat, and glove sets offering warmth, fashion, and versatility.",
+    "parentId": "67d95600f6e530beabf353c2",
+    "translations": {
+      "ar": {
+        "name": "أطقم الوشاح والقبعة والقفازات",
+        "description": "أطقم أنيقة من الوشاح والقبعة والقفازات توفر الدفء والجاذبية والتنوع."
+      },
+      "en": {
+        "name": "Scarf, Hat, and Glove Sets",
+        "description": "Stylish scarf, hat, and glove sets offering warmth, fashion, and versatility."
+      }
+    }
+  },
+  {
+    "_id": "67d95903f6e530beabf353d2",
+    "name": "Cotton Clothing",
+    "description": "Soft, breathable men's cotton clothing ensuring comfort and durability.",
+    "parentId": "67d95804f6e530beabf353cd",
+    "translations": {
+      "ar": {
+        "name": "الملابس القطنية الرجالية",
+        "description": "ملابس قطنية رجالية ناعمة ومريحة تضمن الراحة والمتانة."
+      },
+      "en": {
+        "name": "Cotton Clothing",
+        "description": "Soft, breathable men's cotton clothing ensuring comfort and durability."
+      }
+    }
+  },
+  {
+    "_id": "67d958c1f6e530beabf353d1",
+    "name": "Pajamas",
+    "description": "Quality men's pajamas offering comfort and relaxation.",
+    "parentId": "67d95804f6e530beabf353cd",
+    "translations": {
+      "ar": {
+        "name": "ملابس النوم الرجالية",
+        "description": "ملابس نوم رجالية عالية الجودة توفر الراحة والاسترخاء."
+      },
+      "en": {
+        "name": "Pajamas",
+        "description": "Quality men's pajamas offering comfort and relaxation."
+      }
+    }
+  },
+  {
+    "_id": "67d9588bf6e530beabf353d0",
+    "name": "Jackets and Coats",
+    "description": "Durable men's jackets and coats providing warmth and style.",
+    "parentId": "67d95804f6e530beabf353cd",
+    "translations": {
+      "ar": {
+        "name": "السترات والمعاطف الرجالية",
+        "description": "سترات ومعاطف رجالية متينة توفر الدفء والأناقة."
+      },
+      "en": {
+        "name": "Jackets and Coats",
+        "description": "Durable men's jackets and coats providing warmth and style."
+      }
+    }
+  },
+  {
+    "_id": "67d95862f6e530beabf353cf",
+    "name": "Men's Suits",
+    "description": "Elegant men's suits ideal for formal occasions and professional settings.",
+    "parentId": "67d95804f6e530beabf353cd",
+    "translations": {
+      "ar": {
+        "name": "البدلات الرجالية",
+        "description": "بدلات رجالية أنيقة تناسب المناسبات الرسمية وبيئات العمل."
+      },
+      "en": {
+        "name": "Men's Suits",
+        "description": "Elegant men's suits ideal for formal occasions and professional settings."
+      }
+    }
+  },
+  {
+    "_id": "67d95839f6e530beabf353ce",
+    "name": "Casual Wear",
+    "description": "Comfortable men's casual clothing designed for daily wear and leisure.",
+    "parentId": "67d95804f6e530beabf353cd",
+    "translations": {
+      "ar": {
+        "name": "ملابس رجالية كاجوال",
+        "description": "ملابس رجالية كاجوال مريحة وعصرية تناسب الاستخدام اليومي."
+      },
+      "en": {
+        "name": "Casual Wear",
+        "description": "Comfortable men's casual clothing designed for daily wear and leisure."
+      }
+    }
+  },
+  {
+    "_id": "67d95804f6e530beabf353cd",
+    "name": "Men's Clothing",
+    "description": "Stylish and comfortable men's clothing suited for various occasions and everyday needs.",
+    "parentId": "67d95600f6e530beabf353c2",
+    "translations": {
+      "ar": {
+        "name": "ملابس رجالية",
+        "description": "ملابس رجالية أنيقة ومريحة تناسب مختلف المناسبات والاستخدامات اليومية."
+      },
+      "en": {
+        "name": "Men's Clothing",
+        "description": "Stylish and comfortable men's clothing suited for various occasions and everyday needs."
+      }
+    }
+  },
+  {
+    "_id": "67d957cff6e530beabf353cb",
+    "name": "Underwear",
+    "description": "Comfortable, high-quality women's underwear for daily use.",
+    "parentId": "67d95650f6e530beabf353c4",
+    "translations": {
+      "ar": {
+        "name": "الملابس الداخلية النسائية",
+        "description": "ملابس داخلية نسائية مريحة وعالية الجودة للاستخدام اليومي."
+      },
+      "en": {
+        "name": "Underwear",
+        "description": "Comfortable, high-quality women's underwear for daily use."
+      }
+    }
+  },
+  {
+    "_id": "67d957adf6e530beabf353ca",
+    "name": "Pajamas",
+    "description": "Comfortable women's pajamas designed for relaxation and sleep quality.",
+    "parentId": "67d95650f6e530beabf353c4",
+    "translations": {
+      "ar": {
+        "name": "ملابس النوم النسائية",
+        "description": "ملابس نوم نسائية مريحة تضمن الاسترخاء وجودة النوم."
+      },
+      "en": {
+        "name": "Pajamas",
+        "description": "Comfortable women's pajamas designed for relaxation and sleep quality."
+      }
+    }
+  },
+  {
+    "_id": "67d9578cf6e530beabf353c9",
+    "name": "Modest Clothing",
+    "description": "Stylish modest clothing catering to women's cultural and fashion preferences.",
+    "parentId": "67d95650f6e530beabf353c4",
+    "translations": {
+      "ar": {
+        "name": "الملابس المحتشمة",
+        "description": "ملابس محتشمة أنيقة تراعي الأذواق الثقافية والعصرية للمرأة."
+      },
+      "en": {
+        "name": "Modest Clothing",
+        "description": "Stylish modest clothing catering to women's cultural and fashion preferences."
+      }
+    }
+  },
+  {
+    "_id": "67d95769f6e530beabf353c8",
+    "name": "Jackets and Coats",
+    "description": "Women's jackets and coats combining fashion, warmth, and durability.",
+    "parentId": "67d95650f6e530beabf353c4",
+    "translations": {
+      "ar": {
+        "name": "السترات والمعاطف النسائية",
+        "description": "سترات ومعاطف نسائية تجمع بين الأناقة والدفء والمتانة."
+      },
+      "en": {
+        "name": "Jackets and Coats",
+        "description": "Women's jackets and coats combining fashion, warmth, and durability."
+      }
+    }
+  },
+  {
+    "_id": "67d95746f6e530beabf353c7",
+    "name": "Wedding Dresses and Accessories",
+    "description": "Beautiful wedding dresses and accessories enhancing bridal elegance.",
+    "parentId": "67d95650f6e530beabf353c4",
+    "translations": {
+      "ar": {
+        "name": "فساتين وإكسسوارات الزفاف",
+        "description": "فساتين زفاف وإكسسوارات أنيقة تُبرز جمال العروس."
+      },
+      "en": {
+        "name": "Wedding Dresses and Accessories",
+        "description": "Beautiful wedding dresses and accessories enhancing bridal elegance."
+      }
+    }
+  },
+  {
+    "_id": "67d95704f6e530beabf353c6",
+    "name": "Evening Wear",
+    "description": "Elegant evening wear for women, perfect for events and celebrations.",
+    "parentId": "67d95650f6e530beabf353c4",
+    "translations": {
+      "ar": {
+        "name": "ملابس السهرة",
+        "description": "ملابس سهرة نسائية فاخرة مناسبة للمناسبات والاحتفالات.\n"
+      },
+      "en": {
+        "name": "Evening Wear",
+        "description": "Elegant evening wear for women, perfect for events and celebrations."
+      }
+    }
+  },
+  {
+    "_id": "67d956dbf6e530beabf353c5",
+    "name": "Casual Wear",
+    "description": "Stylish women's casual wear designed for everyday comfort and fashion.",
+    "parentId": "67d95650f6e530beabf353c4",
+    "translations": {
+      "ar": {
+        "name": "ملابس نسائية كاجوال",
+        "description": "ملابس نسائية أنيقة وعصرية للاستخدام اليومي المريح.\n\n"
+      },
+      "en": {
+        "name": "Casual Wear",
+        "description": "Stylish women's casual wear designed for everyday comfort and fashion."
+      }
+    }
+  },
+  {
+    "_id": "67d95650f6e530beabf353c4",
+    "name": "Women's Clothing",
+    "description": "Quality women's clothing tailored for style, comfort, and versatility across various occasions.",
+    "parentId": "67d95600f6e530beabf353c2",
+    "translations": {
+      "ar": {
+        "name": "ملابس نسائية",
+        "description": "ملابس نسائية عالية الجودة تجمع بين الأناقة والراحة وتناسب مختلف المناسبات."
+      },
+      "en": {
+        "name": "Women's Clothing",
+        "description": "Quality women's clothing tailored for style, comfort, and versatility across various occasions."
+      }
+    }
+  },
+  {
+    "_id": "67d95632f6e530beabf353c3",
+    "name": "Infant and Children's Clothing",
+    "description": "Comfortable, safe, and stylish clothing designed specifically for infants and children.",
+    "parentId": "67d95600f6e530beabf353c2",
+    "translations": {
+      "ar": {
+        "name": "ملابس الرضع والأطفال",
+        "description": "ملابس مريحة وآمنة وأنيقة مصممة خصيصاً للرضّع والأطفال."
+      },
+      "en": {
+        "name": "Infant and Children's Clothing",
+        "description": "Comfortable, safe, and stylish clothing designed specifically for infants and children."
+      }
+    }
+  },
+  {
+    "_id": "67d95600f6e530beabf353c2",
+    "name": "Clothing, Textiles, and Accessories",
+    "description": "Quality clothing, textiles, and accessories designed for comfort, durability, and style across diverse markets.",
+    "picture": "67e2f8f42772173d99e8ba89",
+    "pictureFile": {
+      "_id": "67e2f8f42772173d99e8ba89",
+      "path": "http://services.larsa.io/files/file/ctlasuc5drjs73c4p7v0/2025/3/3db98917-996b-4d38-8dfd-46567234592c.png"
+    },
+    "translations": {
+      "ar": {
+        "name": "الملابس والمنسوجات والإكسسوارات",
+        "description": "ملابس ومنسوجات وإكسسوارات عالية الجودة، مصممة للراحة والمتانة والأناقة لمختلف الأسواق."
+      },
+      "en": {
+        "name": "Clothing, Textiles, and Accessories",
+        "description": "Quality clothing, textiles, and accessories designed for comfort, durability, and style across diverse markets."
+      }
+    }
+  },
+  {
+    "_id": "67d955b0f6e530beabf353c1",
+    "name": "Surveillance Cameras",
+    "description": "Advanced surveillance cameras enhancing security, monitoring, and safety measures.",
+    "parentId": "67d95495f6e530beabf353b8",
+    "translations": {
+      "ar": {
+        "name": "كاميرات المراقبة",
+        "description": "كاميرات مراقبة متطورة تعزز الأمن والرصد وإجراءات السلامة."
+      },
+      "en": {
+        "name": "Surveillance Cameras",
+        "description": "Advanced surveillance cameras enhancing security, monitoring, and safety measures."
+      }
+    }
+  },
+  {
+    "_id": "67d95590f6e530beabf353c0",
+    "name": "Safes",
+    "description": "Secure safes, ensuring protection and reliable storage for valuables.",
+    "parentId": "67d95495f6e530beabf353b8",
+    "translations": {
+      "ar": {
+        "name": "الخزائن الحديدية",
+        "description": "خزائن آمنة تضمن الحماية والتخزين الموثوق للأشياء الثمينة."
+      },
+      "en": {
+        "name": "Safes",
+        "description": "Secure safes, ensuring protection and reliable storage for valuables."
+      }
+    }
+  },
+  {
+    "_id": "67d95572f6e530beabf353bf",
+    "name": "Alarm Systems",
+    "description": "Reliable alarm systems providing advanced security and protection solutions.",
+    "parentId": "67d95495f6e530beabf353b8",
+    "translations": {
+      "ar": {
+        "name": "أنظمة الإنذار",
+        "description": "أنظمة إنذار موثوقة توفر حلولاً أمنية وحماية متقدمة."
+      },
+      "en": {
+        "name": "Alarm Systems",
+        "description": "Reliable alarm systems providing advanced security and protection solutions."
+      }
+    }
+  },
+  {
+    "_id": "67d9555af6e530beabf353be",
+    "name": "Control Products",
+    "description": "Advanced control products ensuring efficient monitoring, management, and security.",
+    "parentId": "67d95495f6e530beabf353b8",
+    "translations": {
+      "ar": {
+        "name": "منتجات التحكم",
+        "description": "منتجات تحكم متقدمة لضمان المراقبة والإدارة والأمان بكفاءة."
+      },
+      "en": {
+        "name": "Control Products",
+        "description": "Advanced control products ensuring efficient monitoring, management, and security."
+      }
+    }
+  },
+  {
+    "_id": "67d9553af6e530beabf353bd",
+    "name": "Water Safety Products",
+    "description": "High-quality water safety products for marine, recreational, and emergency applications.",
+    "parentId": "67d95495f6e530beabf353b8",
+    "translations": {
+      "ar": {
+        "name": "منتجات السلامة المائية",
+        "description": "منتجات سلامة مائية عالية الجودة للاستخدامات البحرية والترفيهية والطوارئ."
+      },
+      "en": {
+        "name": "Water Safety Products",
+        "description": "High-quality water safety products for marine, recreational, and emergency applications."
+      }
+    }
+  },
+  {
+    "_id": "67d95522f6e530beabf353bc",
+    "name": "Police Supplies",
+    "description": "Professional police supplies enhancing operational efficiency, safety, and enforcement.",
+    "parentId": "67d95495f6e530beabf353b8",
+    "translations": {
+      "ar": {
+        "name": "مستلزمات الشرطة",
+        "description": "مستلزمات شرطية احترافية لتعزيز الكفاءة التشغيلية والسلامة وإنفاذ القانون."
+      },
+      "en": {
+        "name": "Police Supplies",
+        "description": "Professional police supplies enhancing operational efficiency, safety, and enforcement."
+      }
+    }
+  },
+  {
+    "_id": "67d95502f6e530beabf353bb",
+    "name": "Road Safety",
+    "description": "Reliable road safety products improving traffic control, visibility, and accident prevention.",
+    "parentId": "67d95495f6e530beabf353b8",
+    "translations": {
+      "ar": {
+        "name": "سلامة الطرق",
+        "description": "منتجات سلامة طرق موثوقة لتحسين السيطرة المرورية والرؤية ومنع الحوادث."
+      },
+      "en": {
+        "name": "Road Safety",
+        "description": "Reliable road safety products improving traffic control, visibility, and accident prevention."
+      }
+    }
+  },
+  {
+    "_id": "67d954dff6e530beabf353ba",
+    "name": "Personal Protective Equipment",
+    "description": "Quality personal protective equipment ensuring workplace safety and health compliance.",
+    "parentId": "67d95495f6e530beabf353b8",
+    "translations": {
+      "ar": {
+        "name": "معدات الحماية الشخصية",
+        "description": "معدات حماية شخصية عالية الجودة لضمان السلامة في مكان العمل والامتثال الصحي."
+      },
+      "en": {
+        "name": "Personal Protective Equipment",
+        "description": "Quality personal protective equipment ensuring workplace safety and health compliance."
+      }
+    }
+  },
+  {
+    "_id": "67d954c1f6e530beabf353b9",
+    "name": "Fire Fighting Supplies",
+    "description": "Reliable firefighting equipment ensuring safety, protection, and emergency preparedness.",
+    "parentId": "67d95495f6e530beabf353b8",
+    "translations": {
+      "ar": {
+        "name": "معدات مكافحة الحرائق",
+        "description": "معدات مكافحة حرائق موثوقة تضمن السلامة والحماية والاستعداد للطوارئ."
+      },
+      "en": {
+        "name": "Fire Fighting Supplies",
+        "description": "Reliable firefighting equipment ensuring safety, protection, and emergency preparedness."
+      }
+    }
+  },
+  {
+    "_id": "67d95495f6e530beabf353b8",
+    "name": "Security and Safety",
+    "description": "Reliable security and safety solutions protecting assets, ensuring workplace safety, and enhancing emergency preparedness.",
+    "parentId": "67d94f6bf6e530beabf353a1",
+    "translations": {
+      "ar": {
+        "name": "الأمن والسلامة",
+        "description": "حلول أمن وسلامة موثوقة لحماية الممتلكات وضمان السلامة المهنية وتعزيز الاستعداد للطوارئ."
+      },
+      "en": {
+        "name": "Security and Safety",
+        "description": "Reliable security and safety solutions protecting assets, ensuring workplace safety, and enhancing emergency preparedness."
+      }
+    }
+  },
+  {
+    "_id": "67d9544cf6e530beabf353b7",
+    "name": "Elevators and Escalators",
+    "description": "Safe, efficient elevators (lifts) and escalators providing reliable vertical transport solutions.",
+    "parentId": "67d94f6bf6e530beabf353a1",
+    "translations": {
+      "ar": {
+        "name": "المصاعد والسلالم المتحركة",
+        "description": "مصاعد وسلالم متحركة آمنة وفعالة توفر حلولاً موثوقة للنقل الرأسي."
+      },
+      "en": {
+        "name": "Elevators and Escalators",
+        "description": "Safe, efficient elevators (lifts) and escalators providing reliable vertical transport solutions."
+      }
+    }
+  },
+  {
+    "_id": "67d953eff6e530beabf353b6",
+    "name": "Ladders and Scaffolding",
+    "description": "Reliable ladders and scaffolding, ensuring safe and efficient construction and maintenance.",
+    "parentId": "67d94f6bf6e530beabf353a1",
+    "translations": {
+      "ar": {
+        "name": "السلالم والسقالات",
+        "description": "سلالم وسقالات موثوقة تضمن السلامة والكفاءة في البناء والصيانة."
+      },
+      "en": {
+        "name": "Ladders and Scaffolding",
+        "description": "Reliable ladders and scaffolding, ensuring safe and efficient construction and maintenance."
+      }
+    }
+  },
+  {
+    "_id": "67d95388f6e530beabf353b5",
+    "name": "Solar Energy Products",
+    "description": "Advanced solar energy products supporting sustainability and energy efficiency.",
+    "parentId": "67d950e5f6e530beabf353a6",
+    "translations": {
+      "ar": {
+        "name": "منتجات الطاقة الشمسية",
+        "description": "منتجات طاقة شمسية متطورة تدعم الاستدامة وكفاءة استهلاك الطاقة."
+      },
+      "en": {
+        "name": "Solar Energy Products",
+        "description": "Advanced solar energy products supporting sustainability and energy efficiency."
+      }
+    }
+  },
+  {
+    "_id": "67d95363f6e530beabf353b4",
+    "name": "Garden Supplies and Decorations",
+    "description": "Quality garden supplies and decorative items for outdoor beauty and comfort.",
+    "parentId": "67d950e5f6e530beabf353a6",
+    "translations": {
+      "ar": {
+        "name": "مستلزمات وحدائق الزينة",
+        "description": "مستلزمات وحدائق زينة عالية الجودة لتجميل المساحات الخارجية وتوفير الراحة."
+      },
+      "en": {
+        "name": "Garden Supplies and Decorations",
+        "description": "Quality garden supplies and decorative items for outdoor beauty and comfort."
+      }
+    }
+  },
+  {
+    "_id": "67d9533ef6e530beabf353b3",
+    "name": "Heating Systems",
+    "description": "Efficient heating systems ensuring comfort, warmth, and energy-saving solutions.",
+    "parentId": "67d950e5f6e530beabf353a6",
+    "translations": {
+      "ar": {
+        "name": "أنظمة التدفئة",
+        "description": "أنظمة تدفئة فعالة تضمن الراحة والدفء وحلول توفير الطاقة."
+      },
+      "en": {
+        "name": "Heating Systems",
+        "description": "Efficient heating systems ensuring comfort, warmth, and energy-saving solutions."
+      }
+    }
+  },
+  {
+    "_id": "67d9531ff6e530beabf353b2",
+    "name": "Chandeliers and Lighting",
+    "description": "Stylish chandeliers and lighting solutions, enhancing ambiance and visual appeal.",
+    "parentId": "67d950e5f6e530beabf353a6",
+    "translations": {
+      "ar": {
+        "name": "الثريات والإضاءة",
+        "description": "ثريات وحلول إضاءة أنيقة تُحسّن الأجواء والجاذبية البصرية."
+      },
+      "en": {
+        "name": "Chandeliers and Lighting",
+        "description": "Stylish chandeliers and lighting solutions, enhancing ambiance and visual appeal."
+      }
+    }
+  },
+  {
+    "_id": "67d952fcf6e530beabf353b1",
+    "name": "Decoration Materials",
+    "description": "Elegant decoration materials designed to elevate interior aesthetics and durability.",
+    "parentId": "67d950e5f6e530beabf353a6",
+    "translations": {
+      "ar": {
+        "name": "مواد الديكور",
+        "description": "مواد ديكور أنيقة مصممة لتعزيز جماليات الأماكن الداخلية والمتانة."
+      },
+      "en": {
+        "name": "Decoration Materials",
+        "description": "Elegant decoration materials designed to elevate interior aesthetics and durability."
+      }
+    }
+  },
+  {
+    "_id": "67d952dbf6e530beabf353b0",
+    "name": "Doors and Windows – Locks",
+    "description": "Secure doors, windows, and locks enhancing safety, style, and energy efficiency.",
+    "parentId": "67d950e5f6e530beabf353a6",
+    "translations": {
+      "ar": {
+        "name": "الأبواب والنوافذ والأقفال",
+        "description": "أبواب ونوافذ وأقفال آمنة تعزز الأمان والأناقة وكفاءة الطاقة."
+      },
+      "en": {
+        "name": "Doors and Windows – Locks",
+        "description": "Secure doors, windows, and locks enhancing safety, style, and energy efficiency."
+      }
+    }
+  },
+  {
+    "_id": "67d952abf6e530beabf353af",
+    "name": "Kitchens",
+    "description": "Quality kitchen solutions combining functionality, style, and innovative design.",
+    "parentId": "67d950e5f6e530beabf353a6",
+    "translations": {
+      "ar": {
+        "name": "المطابخ",
+        "description": "حلول مطابخ ذات جودة تجمع بين الوظيفة والأناقة والتصميم المبتكر."
+      },
+      "en": {
+        "name": "Kitchens",
+        "description": "Quality kitchen solutions combining functionality, style, and innovative design."
+      }
+    }
+  },
+  {
+    "_id": "67d95288f6e530beabf353ae",
+    "name": "PVC",
+    "description": "Durable PVC products ideal for plumbing, fittings, and modern finishing solutions.",
+    "parentId": "67d950e5f6e530beabf353a6",
+    "translations": {
+      "ar": {
+        "name": "منتجات الـ PVC",
+        "description": "منتجات PVC متينة مثالية للتمديدات الصحية والتجهيزات وحلول التشطيب الحديثة."
+      },
+      "en": {
+        "name": "PVC",
+        "description": "Durable PVC products ideal for plumbing, fittings, and modern finishing solutions."
+      }
+    }
+  },
+  {
+    "_id": "67d95235f6e530beabf353ad",
+    "name": "Stones and Marble",
+    "description": "Premium stones and marble, enhancing architectural beauty and structural durability.",
+    "parentId": "67d950e5f6e530beabf353a6",
+    "translations": {
+      "ar": {
+        "name": "الحجارة والرخام",
+        "description": "حجارة ورخام فاخر لتعزيز الجمال المعماري والمتانة الإنشائية."
+      },
+      "en": {
+        "name": "Stones and Marble",
+        "description": "Premium stones and marble, enhancing architectural beauty and structural durability."
+      }
+    }
+  },
+  {
+    "_id": "67d951ebf6e530beabf353ac",
+    "name": "Metal Panels",
+    "description": "Robust metal panels suitable for durable façades, roofing, and modern construction.",
+    "parentId": "67d950e5f6e530beabf353a6",
+    "translations": {
+      "ar": {
+        "name": "الألواح المعدنية",
+        "description": "ألواح معدنية متينة تناسب الواجهات والأسقف والبناء العصري."
+      },
+      "en": {
+        "name": "Metal Panels",
+        "description": "Robust metal panels suitable for durable façades, roofing, and modern construction."
+      }
+    }
+  },
+  {
+    "_id": "67d951ccf6e530beabf353ab",
+    "name": "Railings",
+    "description": "Stylish railings providing safety, aesthetics, and durability for residential and commercial buildings.",
+    "parentId": "67d950e5f6e530beabf353a6",
+    "translations": {
+      "ar": {
+        "name": "الدرابزين",
+        "description": "درابزين أنيق يوفر السلامة والجمالية والمتانة للمباني السكنية والتجارية."
+      },
+      "en": {
+        "name": "Railings",
+        "description": "Stylish railings providing safety, aesthetics, and durability for residential and commercial buildings."
+      }
+    }
+  },
+  {
+    "_id": "67d951a9f6e530beabf353aa",
+    "name": "Glass",
+    "description": "High-quality glass products ideal for architecture, interior design, and safety applications.",
+    "parentId": "67d950e5f6e530beabf353a6",
+    "translations": {
+      "ar": {
+        "name": "الزجاج",
+        "description": "منتجات زجاجية عالية الجودة مثالية للهندسة المعمارية والتصميم الداخلي وتطبيقات السلامة."
+      },
+      "en": {
+        "name": "Glass",
+        "description": "High-quality glass products ideal for architecture, interior design, and safety applications."
+      }
+    }
+  },
+  {
+    "_id": "67d9518cf6e530beabf353a9",
+    "name": "Fiberglass Products",
+    "description": "Durable fiberglass materials offering versatility, strength, and corrosion resistance.",
+    "parentId": "67d950e5f6e530beabf353a6",
+    "translations": {
+      "ar": {
+        "name": "منتجات الألياف الزجاجية",
+        "description": "مواد ألياف زجاجية متينة توفر تعدد الاستخدامات والقوة ومقاومة التآكل."
+      },
+      "en": {
+        "name": "Fiberglass Products",
+        "description": "Durable fiberglass materials offering versatility, strength, and corrosion resistance."
+      }
+    }
+  },
+  {
+    "_id": "67d95158f6e530beabf353a8",
+    "name": "Ceramics",
+    "description": "Elegant ceramic products suitable for floors, walls, and decorative finishing.",
+    "parentId": "67d950e5f6e530beabf353a6",
+    "translations": {
+      "ar": {
+        "name": "السيراميك",
+        "description": "منتجات سيراميك أنيقة تناسب الأرضيات والجدران والتشطيبات الزخرفية."
+      },
+      "en": {
+        "name": "Ceramics",
+        "description": "Elegant ceramic products suitable for floors, walls, and decorative finishing."
+      }
+    }
+  },
+  {
+    "_id": "67d95135f6e530beabf353a7",
+    "name": "Insulation Materials and Paints",
+    "description": "Quality insulation materials and paints improving comfort, energy efficiency, and protection.",
+    "parentId": "67d950e5f6e530beabf353a6",
+    "translations": {
+      "ar": {
+        "name": "مواد العزل والدهانات",
+        "description": "مواد عزل ودهانات عالية الجودة لتحسين الراحة وكفاءة الطاقة والحماية."
+      },
+      "en": {
+        "name": "Insulation Materials and Paints",
+        "description": "Quality insulation materials and paints improving comfort, energy efficiency, and protection."
+      }
+    }
+  },
+  {
+    "_id": "67d950e5f6e530beabf353a6",
+    "name": "Building Finishing",
+    "description": "Premium finishing materials enhancing aesthetics, durability, and value in construction projects.",
+    "parentId": "67d94f6bf6e530beabf353a1",
+    "translations": {
+      "ar": {
+        "name": "تشطيبات البناء",
+        "description": "مواد تشطيب ممتازة تعزز الجمالية والمتانة والقيمة في مشاريع البناء."
+      },
+      "en": {
+        "name": "Building Finishing",
+        "description": "Premium finishing materials enhancing aesthetics, durability, and value in construction projects."
+      }
+    }
+  },
+  {
+    "_id": "67d950b6f6e530beabf353a5",
+    "name": "Sanitary Drainage",
+    "description": "Efficient sanitary drainage systems ensuring hygiene, safety, and effective water management.",
+    "parentId": "67d95047f6e530beabf353a2",
+    "translations": {
+      "ar": {
+        "name": "الصرف الصحي",
+        "description": "أنظمة صرف صحي فعالة تضمن النظافة والسلامة وإدارة المياه بكفاءة."
+      },
+      "en": {
+        "name": "Sanitary Drainage",
+        "description": "Efficient sanitary drainage systems ensuring hygiene, safety, and effective water management."
+      }
+    }
+  },
+  {
+    "_id": "67d9508df6e530beabf353a4",
+    "name": "Wood",
+    "description": "Premium wood materials suitable for construction, furniture making, and interior design.",
+    "parentId": "67d95047f6e530beabf353a2",
+    "translations": {
+      "ar": {
+        "name": "الخشب",
+        "description": "مواد خشبية ممتازة للبناء وصناعة الأثاث والتصميم الداخلي."
+      },
+      "en": {
+        "name": "Wood",
+        "description": "Premium wood materials suitable for construction, furniture making, and interior design."
+      }
+    }
+  },
+  {
+    "_id": "67d9506cf6e530beabf353a3",
+    "name": "Iron",
+    "description": "High-quality iron products providing strength, durability, and reliability in construction.",
+    "parentId": "67d95047f6e530beabf353a2",
+    "translations": {
+      "ar": {
+        "name": "الحديد",
+        "description": "منتجات حديد عالية الجودة توفر القوة والمتانة والموثوقية في أعمال البناء."
+      },
+      "en": {
+        "name": "Iron",
+        "description": "High-quality iron products providing strength, durability, and reliability in construction."
+      }
+    }
+  },
+  {
+    "_id": "67d95047f6e530beabf353a2",
+    "name": "Building Materials",
+    "description": "Reliable building materials, ensuring durability and structural strength for construction projects.",
+    "parentId": "67d94f6bf6e530beabf353a1",
+    "translations": {
+      "ar": {
+        "name": "مواد البناء",
+        "description": "مواد بناء موثوقة تضمن المتانة والقوة الإنشائية لمشاريع البناء."
+      },
+      "en": {
+        "name": "Building Materials",
+        "description": "Reliable building materials, ensuring durability and structural strength for construction projects."
+      }
+    }
+  },
+  {
+    "_id": "67d94f6bf6e530beabf353a1",
+    "name": "Building Materials and Finishing",
+    "description": "Reliable materials and finishing products enhancing durability, aesthetics, and quality in construction projects.",
+    "translations": {
+      "ar": {
+        "name": "مواد البناء والتشطيب",
+        "description": "مواد بناء وتشطيب موثوقة تعزز المتانة والجمالية والجودة في المشاريع الإنشائية."
+      },
+      "en": {
+        "name": "Building Materials and Finishing",
+        "description": "Reliable materials and finishing products enhancing durability, aesthetics, and quality in construction projects."
+      }
+    }
+  },
+  {
+    "_id": "67d8129f2138838423fa7750",
+    "name": "Pet Products",
+    "description": "Quality pet products ensuring health, comfort, and care for pets.",
+    "parentId": "67d61eb9e6e9e238348b9e80",
+    "translations": {
+      "ar": {
+        "name": "منتجات الحيوانات الأليفة",
+        "description": "منتجات عالية الجودة للحيوانات الأليفة تضمن صحتها وراحتها ورعايتها."
+      },
+      "en": {
+        "name": "Pet Products",
+        "description": "Quality pet products ensuring health, comfort, and care for pets."
+      }
+    }
+  },
+  {
+    "_id": "67d8127b2138838423fa774f",
+    "name": "Office and School Supplies",
+    "description": "Efficient, quality office and school supplies improving productivity, organization, and learning.",
+    "parentId": "67d61eb9e6e9e238348b9e80",
+    "translations": {
+      "ar": {
+        "name": "مستلزمات المكاتب والمدارس",
+        "description": "مستلزمات مكتبية ومدرسية عالية الجودة تعزز الإنتاجية والتنظيم والتعلُّم."
+      },
+      "en": {
+        "name": "Office and School Supplies",
+        "description": "Efficient, quality office and school supplies improving productivity, organization, and learning."
+      }
+    }
+  },
+  {
+    "_id": "67d812592138838423fa774e",
+    "name": "Advertising, Marketing, and Printing",
+    "description": "Innovative advertising, marketing, and printing services boosting brand exposure and sales.",
+    "parentId": "67d61eb9e6e9e238348b9e80",
+    "translations": {
+      "ar": {
+        "name": "الدعاية والتسويق والطباعة",
+        "description": "خدمات دعاية وتسويق وطباعة مبتكرة لتعزيز انتشار العلامة التجارية وزيادة المبيعات."
+      },
+      "en": {
+        "name": "Advertising, Marketing, and Printing",
+        "description": "Innovative advertising, marketing, and printing services boosting brand exposure and sales."
+      }
+    }
+  },
+  {
+    "_id": "67d812342138838423fa774d",
+    "name": "Bags",
+    "description": "Reliable bags designed for packaging, retail, promotional, and industrial applications.",
+    "parentId": "67d810a22138838423fa7749",
+    "translations": {
+      "ar": {
+        "name": "الحقائب والأكياس",
+        "description": "حقائب وأكياس موثوقة مصممة للتعبئة والتغليف والتجزئة والترويج والتطبيقات الصناعية."
+      },
+      "en": {
+        "name": "Bags",
+        "description": "Reliable bags designed for packaging, retail, promotional, and industrial applications."
+      }
+    }
+  },
+  {
+    "_id": "67d812022138838423fa774c",
+    "name": "Paper and Aluminum",
+    "description": "Quality paper and aluminum products ideal for packaging, printing, and industrial use.",
+    "parentId": "67d810a22138838423fa7749",
+    "translations": {
+      "ar": {
+        "name": "الورق والألمنيوم",
+        "description": "منتجات ورقية وألمنيوم عالية الجودة مناسبة للتغليف والطباعة والاستخدام الصناعي"
+      },
+      "en": {
+        "name": "Paper and Aluminum",
+        "description": "Quality paper and aluminum products ideal for packaging, printing, and industrial use."
+      }
+    }
+  },
+  {
+    "_id": "67d810d92138838423fa774b",
+    "name": "Printing Materials and Services",
+    "description": "Professional printing materials and services optimizing brand visibility and quality.",
+    "parentId": "67d810a22138838423fa7749",
+    "translations": {
+      "ar": {
+        "name": "خدمات ومواد الطباعة",
+        "description": "خدمات ومواد طباعة احترافية تُعزز رؤية العلامة التجارية والجودة."
+      },
+      "en": {
+        "name": "Printing Materials and Services",
+        "description": "Professional printing materials and services optimizing brand visibility and quality."
+      }
+    }
+  },
+  {
+    "_id": "67d810bc2138838423fa774a",
+    "name": "Boxes",
+    "description": "Durable, versatile boxes providing secure packaging solutions for various industries.",
+    "parentId": "67d810a22138838423fa7749",
+    "translations": {
+      "ar": {
+        "name": "الصناديق",
+        "description": "صناديق متينة ومتعددة الاستخدامات توفر حلول تغليف آمنة لمختلف الصناعات."
+      },
+      "en": {
+        "name": "Boxes",
+        "description": "Durable, versatile boxes providing secure packaging solutions for various industries."
+      }
+    }
+  },
+  {
+    "_id": "67d810a22138838423fa7749",
+    "name": "Packaging",
+    "description": "Reliable packaging solutions ensuring product safety, presentation, and logistics efficiency.",
+    "parentId": "67d61eb9e6e9e238348b9e80",
+    "translations": {
+      "ar": {
+        "name": "التعبئة والتغليف",
+        "description": "حلول تعبئة وتغليف موثوقة تضمن سلامة المنتج والعرض وكفاءة الخدمات اللوجستية."
+      },
+      "en": {
+        "name": "Packaging",
+        "description": "Reliable packaging solutions ensuring product safety, presentation, and logistics efficiency."
+      }
+    }
+  },
+  {
+    "_id": "67d8107d2138838423fa7748",
+    "name": "Spare Parts and Accessories",
+    "description": "Quality vehicle spare parts and accessories, enhancing reliability and operational safety.",
+    "parentId": "67d8105e2138838423fa7747",
+    "translations": {
+      "ar": {
+        "name": "قطع الغيار والملحقات",
+        "description": "قطع غيار وملحقات مركبات عالية الجودة لتعزيز الموثوقية والسلامة التشغيلية."
+      },
+      "en": {
+        "name": "Spare Parts and Accessories",
+        "description": "Quality vehicle spare parts and accessories, enhancing reliability and operational safety."
+      }
+    }
+  },
+  {
+    "_id": "67d8105e2138838423fa7747",
+    "name": "Vehicles and Accessories",
+    "description": "Reliable vehicles and accessories ensuring performance, safety, and efficiency.",
+    "parentId": "67d61eb9e6e9e238348b9e80",
+    "translations": {
+      "ar": {
+        "name": "المركبات وملحقاتها",
+        "description": "مركبات وملحقات موثوقة تضمن الأداء والسلامة والكفاءة."
+      },
+      "en": {
+        "name": "Vehicles and Accessories",
+        "description": "Reliable vehicles and accessories ensuring performance, safety, and efficiency."
+      }
+    }
+  },
+  {
+    "_id": "67d8102a2138838423fa7746",
+    "name": "Holiday and Party Supplies",
+    "description": "Festive supplies and decorations tailored for celebrations, events, and special occasions.",
+    "parentId": "67d80fcb2138838423fa7743",
+    "translations": {
+      "ar": {
+        "name": "مستلزمات الأعياد والحفلات",
+        "description": "مستلزمات وزينة احتفالية مناسبة للأعياد والمناسبات الخاصة والفعاليات."
+      },
+      "en": {
+        "name": "Holiday and Party Supplies",
+        "description": "Festive supplies and decorations tailored for celebrations, events, and special occasions."
+      }
+    }
+  },
+  {
+    "_id": "67d810062138838423fa7745",
+    "name": "Toys",
+    "description": "Safe, durable toys enhancing fun, learning, and child development.",
+    "parentId": "67d80fcb2138838423fa7743",
+    "translations": {
+      "ar": {
+        "name": "الألعاب",
+        "description": "ألعاب آمنة ومتينة تُعزز المرح والتعلم وتطور الأطفال."
+      },
+      "en": {
+        "name": "Toys",
+        "description": "Safe, durable toys enhancing fun, learning, and child development."
+      }
+    }
+  },
+  {
+    "_id": "67d80fea2138838423fa7744",
+    "name": "Gifts",
+    "description": "Distinctive gifts suitable for corporate events, promotions, and special occasions.",
+    "parentId": "67d80fcb2138838423fa7743",
+    "translations": {
+      "ar": {
+        "name": "الهدايا",
+        "description": "هدايا مميزة مناسبة للمناسبات والفعاليات المؤسسية والترويجية والخاصة."
+      },
+      "en": {
+        "name": "Gifts",
+        "description": "Distinctive gifts suitable for corporate events, promotions, and special occasions."
+      }
+    }
+  },
+  {
+    "_id": "67d80fcb2138838423fa7743",
+    "name": "Gifts and Toys",
+    "description": "Quality gifts and toys for all ages, ideal for retail, wholesale, and promotional markets.",
+    "parentId": "67d61eb9e6e9e238348b9e80",
+    "translations": {
+      "ar": {
+        "name": "الهدايا والألعاب",
+        "description": "هدايا وألعاب عالية الجودة لمختلف الأعمار، تناسب أسواق التجزئة والجملة والترويج."
+      },
+      "en": {
+        "name": "Gifts and Toys",
+        "description": "Quality gifts and toys for all ages, ideal for retail, wholesale, and promotional markets."
+      }
+    }
+  },
+  {
+    "_id": "67d80f932138838423fa7742",
+    "name": "Camping and Hiking",
+    "description": "Durable camping and hiking gear designed for safety, comfort, and outdoor exploration.",
+    "parentId": "67d80f1a2138838423fa773f",
+    "translations": {
+      "ar": {
+        "name": "التخييم والتنزه",
+        "description": "معدات تخييم وتنزه متينة مصممة للسلامة والراحة والاستكشاف في الهواء الطلق."
+      },
+      "en": {
+        "name": "Camping and Hiking",
+        "description": "Durable camping and hiking gear designed for safety, comfort, and outdoor exploration."
+      }
+    }
+  },
+  {
+    "_id": "67d80f5d2138838423fa7741",
+    "name": "Nutritional Supplements",
+    "description": "Premium nutritional supplements supporting health, fitness goals, and overall wellness.",
+    "parentId": "67d80f1a2138838423fa773f",
+    "translations": {
+      "ar": {
+        "name": "المكملات الغذائية",
+        "description": "مكملات غذائية مميزة تدعم الصحة وتحقيق أهداف اللياقة البدنية والرفاهية العامة."
+      },
+      "en": {
+        "name": "Nutritional Supplements",
+        "description": "Premium nutritional supplements supporting health, fitness goals, and overall wellness."
+      }
+    }
+  },
+  {
+    "_id": "67d80f3a2138838423fa7740",
+    "name": "Sports and Fitness",
+    "description": "Quality sports and fitness gear enhancing physical performance, wellness, and training efficiency.",
+    "parentId": "67d80f1a2138838423fa773f",
+    "translations": {
+      "ar": {
+        "name": "الرياضة واللياقة البدنية",
+        "description": "معدات رياضية ولياقة بدنية عالية الجودة تعزز الأداء البدني والصحة وكفاءة التدريب."
+      },
+      "en": {
+        "name": "Sports and Fitness",
+        "description": "Quality sports and fitness gear enhancing physical performance, wellness, and training efficiency."
+      }
+    }
+  },
+  {
+    "_id": "67d80f1a2138838423fa773f",
+    "name": "Sports and Recreation – Camping and Hiking",
+    "description": "Reliable equipment and accessories supporting active lifestyles, outdoor adventures, and recreational activities.",
+    "parentId": "67d61eb9e6e9e238348b9e80",
+    "translations": {
+      "ar": {
+        "name": "الرياضة والترفيه – التخييم والتنزه",
+        "description": "معدات وملحقات موثوقة تدعم أسلوب الحياة النشط والمغامرات الخارجية والأنشطة الترفيهية."
+      },
+      "en": {
+        "name": "Sports and Recreation – Camping and Hiking",
+        "description": "Reliable equipment and accessories supporting active lifestyles, outdoor adventures, and recreational activities."
+      }
+    }
+  },
+  {
+    "_id": "67d80ed82138838423fa773e",
+    "name": "Furniture",
+    "description": "Durable, stylish furniture solutions designed for comfort, functionality, and enhancing business or home interiors.",
+    "parentId": "67d61eb9e6e9e238348b9e80",
+    "translations": {
+      "ar": {
+        "name": "الأثاث",
+        "description": "حلول أثاث متينة وأنيقة مصممة لتوفير الراحة والوظيفية وتعزيز التصميم الداخلي للمنازل والأعمال."
+      },
+      "en": {
+        "name": "Furniture",
+        "description": "Durable, stylish furniture solutions designed for comfort, functionality, and enhancing business or home interiors."
+      }
+    }
+  },
+  {
+    "_id": "67d80e872138838423fa773d",
+    "name": "Household Cleaning Tools",
+    "description": "Efficient household cleaning tools ensuring hygiene, cleanliness, and ease of use.",
+    "parentId": "67d80b332138838423fa772e",
+    "translations": {
+      "ar": {
+        "name": "أدوات التنظيف المنزلية",
+        "description": "أدوات تنظيف منزلية فعّالة تضمن النظافة والتعقيم وسهولة الاستخدام."
+      },
+      "en": {
+        "name": "Household Cleaning Tools",
+        "description": "Efficient household cleaning tools ensuring hygiene, cleanliness, and ease of use."
+      }
+    }
+  },
+  {
+    "_id": "67d80e642138838423fa773c",
+    "name": "Household Utensils",
+    "description": "Quality household utensils enhancing cooking, dining, and daily home convenience.",
+    "parentId": "67d80b332138838423fa772e",
+    "translations": {
+      "ar": {
+        "name": "أواني وأدوات منزلية",
+        "description": "أوانٍ وأدوات منزلية عالية الجودة تُسهّل الطهي وتناول الطعام وتوفر الراحة اليومية."
+      },
+      "en": {
+        "name": "Household Utensils",
+        "description": "Quality household utensils enhancing cooking, dining, and daily home convenience."
+      }
+    }
+  },
+  {
+    "_id": "67d80dc62138838423fa773b",
+    "name": "Water Treatment Appliances",
+    "description": "Advanced water treatment appliances ensuring pure, safe drinking water and home usage.",
+    "parentId": "67d80b902138838423fa772f",
+    "translations": {
+      "ar": {
+        "name": "أجهزة معالجة المياه",
+        "description": "أجهزة معالجة مياه متطورة تضمن مياه شرب نقية وآمنة للاستخدام المنزلي."
+      },
+      "en": {
+        "name": "Water Treatment Appliances",
+        "description": "Advanced water treatment appliances ensuring pure, safe drinking water and home usage."
+      }
+    }
+  },
+  {
+    "_id": "67d80da02138838423fa773a",
+    "name": "Water Heaters",
+    "description": "Quality water heaters providing consistent hot water supply, safety, and efficiency.",
+    "parentId": "67d80b902138838423fa772f",
+    "translations": {
+      "ar": {
+        "name": "سخانات المياه",
+        "description": "سخانات مياه عالية الجودة توفر مياهًا ساخنة مستمرة، مع كفاءة عالية وأمان."
+      },
+      "en": {
+        "name": "Water Heaters",
+        "description": "Quality water heaters providing consistent hot water supply, safety, and efficiency."
+      }
+    }
+  },
+  {
+    "_id": "67d80d762138838423fa7739",
+    "name": "Kitchen Tools",
+    "description": "Reliable kitchen tools facilitating efficient cooking, food preparation, and culinary tasks.",
+    "parentId": "67d80b902138838423fa772f",
+    "translations": {
+      "ar": {
+        "name": "أدوات المطبخ",
+        "description": "أدوات مطبخ موثوقة تُسهل الطهي وتحضير الطعام والمهام المطبخية بكفاءة."
+      },
+      "en": {
+        "name": "Kitchen Tools",
+        "description": "Reliable kitchen tools facilitating efficient cooking, food preparation, and culinary tasks."
+      }
+    }
+  },
+  {
+    "_id": "67d80d522138838423fa7738",
+    "name": "Air Conditioning Appliances",
+    "description": "Efficient air conditioning appliances providing comfort and energy-saving climate control.",
+    "parentId": "67d80b902138838423fa772f",
+    "translations": {
+      "ar": {
+        "name": "أجهزة تكييف الهواء",
+        "description": "أجهزة تكييف هواء فعّالة توفر الراحة والتحكم بالمناخ مع توفير الطاقة."
+      },
+      "en": {
+        "name": "Air Conditioning Appliances",
+        "description": "Efficient air conditioning appliances providing comfort and energy-saving climate control."
+      }
+    }
+  },
+  {
+    "_id": "67d80d2d2138838423fa7737",
+    "name": "Tableware",
+    "description": "Elegant, durable tableware, enhancing dining experiences for homes and hospitality.",
+    "parentId": "67d80b902138838423fa772f",
+    "translations": {
+      "ar": {
+        "name": "أدوات المائدة",
+        "description": "أدوات مائدة أنيقة ومتينة تعزز تجارب تناول الطعام في المنازل وقطاع الضيافة."
+      },
+      "en": {
+        "name": "Tableware",
+        "description": "Elegant, durable tableware, enhancing dining experiences for homes and hospitality."
+      }
+    }
+  },
+  {
+    "_id": "67d80cfc2138838423fa7736",
+    "name": "Household Electrical Appliances",
+    "description": "Efficient household electrical appliances, improving daily comfort and operational convenience.",
+    "parentId": "67d80b902138838423fa772f",
+    "translations": {
+      "ar": {
+        "name": "الأجهزة الكهربائية المنزلية",
+        "description": "أجهزة كهربائية منزلية فعالة تحسن من الراحة اليومية والسهولة في التشغيل."
+      },
+      "en": {
+        "name": "Household Electrical Appliances",
+        "description": "Efficient household electrical appliances, improving daily comfort and operational convenience."
+      }
+    }
+  },
+  {
+    "_id": "67d80cda2138838423fa7735",
+    "name": "Consumer Electronics",
+    "description": "Innovative consumer electronics designed for modern lifestyles, efficiency, and convenience.",
+    "parentId": "67d80b902138838423fa772f",
+    "translations": {
+      "ar": {
+        "name": "الإلكترونيات الاستهلاكية",
+        "description": "إلكترونيات استهلاكية مبتكرة مصممة لتناسب أنماط الحياة العصرية والكفاءة والراحة."
+      },
+      "en": {
+        "name": "Consumer Electronics",
+        "description": "Innovative consumer electronics designed for modern lifestyles, efficiency, and convenience."
+      }
+    }
+  },
+  {
+    "_id": "67d80cb62138838423fa7734",
+    "name": "Audio and Video Devices and Accessories",
+    "description": "Superior audio and video devices with accessories delivering premium multimedia experiences.",
+    "parentId": "67d80b902138838423fa772f",
+    "translations": {
+      "ar": {
+        "name": "أجهزة وملحقات الصوت والفيديو",
+        "description": "أجهزة صوت وفيديو ممتازة مع ملحقاتها تقدم تجارب وسائط متعددة استثنائية."
+      },
+      "en": {
+        "name": "Audio and Video Devices and Accessories",
+        "description": "Superior audio and video devices with accessories delivering premium multimedia experiences."
+      }
+    }
+  },
+  {
+    "_id": "67d80c802138838423fa7733",
+    "name": "Accessories and Spare Parts",
+    "description": "Reliable accessories and spare parts, maintaining appliance performance and longevity.",
+    "parentId": "67d80b902138838423fa772f",
+    "translations": {
+      "ar": {
+        "name": "إكسسوارات وقطع الغيار",
+        "description": "ملحقات وقطع غيار موثوقة تحافظ على أداء الأجهزة وإطالة عمرها الافتراضي."
+      },
+      "en": {
+        "name": "Accessories and Spare Parts",
+        "description": "Reliable accessories and spare parts, maintaining appliance performance and longevity."
+      }
+    }
+  },
+  {
+    "_id": "67d80c0f2138838423fa7732",
+    "name": "Video Games and Accessories",
+    "description": "High-quality video games and accessories, enhancing entertainment experiences and interactive gaming.",
+    "parentId": "67d80b902138838423fa772f",
+    "translations": {
+      "ar": {
+        "name": "ألعاب الفيديو وملحقاتها",
+        "description": "ألعاب فيديو وملحقات عالية الجودة لتعزيز الترفيه وتجارب اللعب التفاعلية."
+      },
+      "en": {
+        "name": "Video Games and Accessories",
+        "description": "High-quality video games and accessories, enhancing entertainment experiences and interactive gaming."
+      }
+    }
+  },
+  {
+    "_id": "67d80be82138838423fa7731",
+    "name": "Chargers – Batteries and Power Supplies",
+    "description": "Durable chargers, batteries, and power supplies ensuring reliable energy solutions for electronics.",
+    "parentId": "67d80b902138838423fa772f",
+    "translations": {
+      "ar": {
+        "name": "الشواحن والبطاريات ومزودات الطاقة",
+        "description": "شواحن وبطاريات ومزودات طاقة متينة توفر حلول طاقة موثوقة للأجهزة الإلكترونية."
+      },
+      "en": {
+        "name": "Chargers – Batteries and Power Supplies",
+        "description": "Durable chargers, batteries, and power supplies ensuring reliable energy solutions for electronics."
+      }
+    }
+  },
+  {
+    "_id": "67d80bbb2138838423fa7730",
+    "name": "Cameras and Accessories",
+    "description": "Advanced cameras and accessories offering high-quality imaging solutions for personal and professional use.",
+    "parentId": "67d80b902138838423fa772f",
+    "translations": {
+      "ar": {
+        "name": "الكاميرات وملحقاتها",
+        "description": "كاميرات وملحقات متطورة توفر حلول تصوير عالية الجودة للاستخدام الشخصي والاحترافي."
+      },
+      "en": {
+        "name": "Cameras and Accessories",
+        "description": "Advanced cameras and accessories offering high-quality imaging solutions for personal and professional use."
+      }
+    }
+  },
+  {
+    "_id": "67d80b902138838423fa772f",
+    "name": "Electrical Appliances and Supplies",
+    "description": "Quality electrical appliances and supplies, ensuring reliability and safety for homes and businesses.",
+    "parentId": "67d80b332138838423fa772e",
+    "translations": {
+      "ar": {
+        "name": "الأجهزة والتجهيزات الكهربائية",
+        "description": "أجهزة وتجهيزات كهربائية عالية الجودة تضمن الموثوقية والسلامة للمنازل والأعمال."
+      },
+      "en": {
+        "name": "Electrical Appliances and Supplies",
+        "description": "Quality electrical appliances and supplies, ensuring reliability and safety for homes and businesses."
+      }
+    }
+  },
+  {
+    "_id": "67d80b332138838423fa772e",
+    "name": "Household Appliances",
+    "description": "Reliable household appliances enhancing comfort, efficiency, and modern living.",
+    "parentId": "67d61eb9e6e9e238348b9e80",
+    "translations": {
+      "ar": {
+        "name": "الأجهزة المنزلية",
+        "description": "أجهزة منزلية موثوقة تعزز الراحة والكفاءة وأنماط الحياة العصرية."
+      },
+      "en": {
+        "name": "Household Appliances",
+        "description": "Reliable household appliances enhancing comfort, efficiency, and modern living."
+      }
+    }
+  },
+  {
+    "_id": "67d6f15a0a94cddf299d27b1",
+    "name": "Animal Feed",
+    "description": "Nutritious animal feed supporting livestock health, growth, and productivity.",
+    "parentId": "67d6edc80a94cddf299d279e",
+    "translations": {
+      "ar": {
+        "name": "أعلاف الحيوانات",
+        "description": "أعلاف حيوانية مغذية تدعم صحة ونمو وإنتاجية الماشية."
+      },
+      "en": {
+        "name": "Animal Feed",
+        "description": "Nutritious animal feed supporting livestock health, growth, and productivity."
+      }
+    }
+  },
+  {
+    "_id": "67d6f1350a94cddf299d27b0",
+    "name": "Fertilizers and Pesticides",
+    "description": "Effective fertilizers and pesticides, boosting agricultural productivity and crop protection.",
+    "parentId": "67d6edc80a94cddf299d279e",
+    "translations": {
+      "ar": {
+        "name": "الأسمدة والمبيدات",
+        "description": "أسمدة ومبيدات فعّالة لتعزيز الإنتاجية الزراعية وحماية المحاصيل."
+      },
+      "en": {
+        "name": "Fertilizers and Pesticides",
+        "description": "Effective fertilizers and pesticides, boosting agricultural productivity and crop protection."
+      }
+    }
+  },
+  {
+    "_id": "67d6f10f0a94cddf299d27af",
+    "name": "Plant Seeds and Bulbs",
+    "description": "High-quality plant seeds and bulbs for agriculture, gardening, and sustainable planting.",
+    "parentId": "67d6edc80a94cddf299d279e",
+    "translations": {
+      "ar": {
+        "name": "بذور ونباتات الزراعة",
+        "description": "بذور ونباتات زراعية عالية الجودة للزراعة والبستنة والزراعة المستدامة."
+      },
+      "en": {
+        "name": "Plant Seeds and Bulbs",
+        "description": "High-quality plant seeds and bulbs for agriculture, gardening, and sustainable planting."
+      }
+    }
+  },
+  {
+    "_id": "67d6f0e70a94cddf299d27ae",
+    "name": "Sweets and Chocolates",
+    "description": "Delicious sweets and chocolates made with premium ingredients for retail and hospitality.",
+    "parentId": "67d6edc80a94cddf299d279e",
+    "translations": {
+      "ar": {
+        "name": "الحلويات والشوكولاتة",
+        "description": "حلويات وشوكولاتة شهية مصنوعة من مكونات ممتازة تناسب التجزئة والضيافة."
+      },
+      "en": {
+        "name": "Sweets and Chocolates",
+        "description": "Delicious sweets and chocolates made with premium ingredients for retail and hospitality."
+      }
+    }
+  },
+  {
+    "_id": "67d6f0be0a94cddf299d27ad",
+    "name": "Honey Products",
+    "description": "Pure honey products offering natural sweetness, nutrition, and quality for various uses.",
+    "parentId": "67d6edc80a94cddf299d279e",
+    "translations": {
+      "ar": {
+        "name": "منتجات العسل",
+        "description": "منتجات عسل نقي توفر المذاق الحلو الطبيعي والقيمة الغذائية والجودة لمختلف الاستخدامات."
+      },
+      "en": {
+        "name": "Honey Products",
+        "description": "Pure honey products offering natural sweetness, nutrition, and quality for various uses."
+      }
+    }
+  },
+  {
+    "_id": "67d6f07f0a94cddf299d27ac",
+    "name": "Animal Products",
+    "description": "Quality animal products suitable for food processing and nutritional applications.",
+    "parentId": "67d6edc80a94cddf299d279e",
+    "translations": {
+      "ar": {
+        "name": "المنتجات الحيوانية",
+        "description": "منتجات حيوانية ذات جودة عالية تناسب التصنيع الغذائي والاستخدامات التغذوية."
+      },
+      "en": {
+        "name": "Animal Products",
+        "description": "Quality animal products suitable for food processing and nutritional applications."
+      }
+    }
+  },
+  {
+    "_id": "67d6f0510a94cddf299d27ab",
+    "name": "Spices and Seasonings",
+    "description": "Aromatic spices and seasonings enhancing flavour and culinary experiences in food production.",
+    "parentId": "67d6edc80a94cddf299d279e",
+    "translations": {
+      "ar": {
+        "name": "البهارات والتوابل",
+        "description": "بهارات وتوابل عطرية تُعزز النكهات والتجارب الغذائية في مجال إنتاج الأغذية."
+      },
+      "en": {
+        "name": "Spices and Seasonings",
+        "description": "Aromatic spices and seasonings enhancing flavour and culinary experiences in food production."
+      }
+    }
+  },
+  {
+    "_id": "67d6f0110a94cddf299d27aa",
+    "name": "Healthy Nutrition",
+    "description": "Nutritious health-focused foods supporting wellness, diet, and healthy lifestyles.",
+    "parentId": "67d6edc80a94cddf299d279e",
+    "translations": {
+      "ar": {
+        "name": "التغذية الصحية",
+        "description": "منتجات غذائية صحية مغذية تدعم الصحة، والحميات الغذائية، وأنماط الحياة الصحية."
+      },
+      "en": {
+        "name": "Healthy Nutrition",
+        "description": "Nutritious health-focused foods supporting wellness, diet, and healthy lifestyles."
+      }
+    }
+  },
+  {
+    "_id": "67d6efda0a94cddf299d27a9",
+    "name": "Seafood",
+    "description": "Quality seafood products providing freshness, nutrition, and reliability to food industries.",
+    "parentId": "67d6edc80a94cddf299d279e",
+    "translations": {
+      "ar": {
+        "name": "المأكولات البحرية",
+        "description": "منتجات بحرية عالية الجودة توفر الطزاجة والقيمة الغذائية والموثوقية للصناعات الغذائية."
+      },
+      "en": {
+        "name": "Seafood",
+        "description": "Quality seafood products providing freshness, nutrition, and reliability to food industries."
+      }
+    }
+  },
+  {
+    "_id": "67d6ef840a94cddf299d27a8",
+    "name": "Agricultural Waste",
+    "description": "Reusable agricultural waste materials suitable for sustainable industrial and environmental applications.",
+    "picture": "67f6418ec1ca81a3caba3e61",
+    "pictureFile": {
+      "_id": "67f6418ec1ca81a3caba3e61",
+      "path": "http://services.larsa.io/files/file/ctlasuc5drjs73c4p7v0/2025/4/e142ada0-42b3-4eb5-968b-c54808650f55.webp"
+    },
+    "parentId": "67d6edc80a94cddf299d279e",
+    "translations": {
+      "ar": {
+        "name": "المخلفات الزراعية",
+        "description": "مخلفات زراعية قابلة لإعادة الاستخدام في التطبيقات الصناعية والبيئية المستدامة."
+      },
+      "en": {
+        "name": "Agricultural Waste",
+        "description": "Reusable agricultural waste materials suitable for sustainable industrial and environmental applications."
+      }
+    }
+  },
+  {
+    "_id": "67d6ef630a94cddf299d27a7",
+    "name": "Coffee Beans and Cocoa – Coffee and Tea",
+    "description": "Premium coffee beans, cocoa, coffee, and tea products for superior taste and quality.",
+    "parentId": "67d6edc80a94cddf299d279e",
+    "translations": {
+      "ar": {
+        "name": "حبوب البن والكاكاو – القهوة والشاي",
+        "description": "منتجات البن والكاكاو والقهوة والشاي الفاخرة ذات الجودة العالية والطعم المتميز."
+      },
+      "en": {
+        "name": "Coffee Beans and Cocoa – Coffee and Tea",
+        "description": "Premium coffee beans, cocoa, coffee, and tea products for superior taste and quality."
+      }
+    }
+  },
+  {
+    "_id": "67d6ef250a94cddf299d27a6",
+    "name": "Bakery Products",
+    "description": "Fresh, high-quality bakery products ideal for retail and food service businesses.",
+    "parentId": "67d6edc80a94cddf299d279e",
+    "translations": {
+      "ar": {
+        "name": "منتجات المخابز",
+        "description": "منتجات مخابز طازجة وعالية الجودة تناسب قطاعات التجزئة وخدمات الطعام."
+      },
+      "en": {
+        "name": "Bakery Products",
+        "description": "Fresh, high-quality bakery products ideal for retail and food service businesses."
+      }
+    }
+  },
+  {
+    "_id": "67d6eef60a94cddf299d27a5",
+    "name": "Baby Foods",
+    "description": "Nutritious, safe baby foods providing essential nutrients for healthy infant growth.",
+    "parentId": "67d6edc80a94cddf299d279e",
+    "translations": {
+      "ar": {
+        "name": "أغذية الأطفال",
+        "description": "أغذية أطفال مغذية وآمنة توفر العناصر الغذائية الأساسية لنمو صحي للرضع."
+      },
+      "en": {
+        "name": "Baby Foods",
+        "description": "Nutritious, safe baby foods providing essential nutrients for healthy infant growth."
+      }
+    }
+  },
+  {
+    "_id": "67d6eed40a94cddf299d27a4",
+    "name": "Food and Beverages",
+    "description": "Diverse food and beverage products tailored to retail, hospitality, and industrial sectors.",
+    "parentId": "67d6edc80a94cddf299d279e",
+    "translations": {
+      "ar": {
+        "name": "الأطعمة والمشروبات",
+        "description": "منتجات غذائية ومشروبات متنوعة لقطاعات التجزئة والضيافة والصناعة."
+      },
+      "en": {
+        "name": "Food and Beverages",
+        "description": "Diverse food and beverage products tailored to retail, hospitality, and industrial sectors."
+      }
+    }
+  },
+  {
+    "_id": "67d6eeb60a94cddf299d27a3",
+    "name": "Vegetable and Animal Oils",
+    "description": "High-quality vegetable and animal oils for culinary, industrial, and nutritional applications.",
+    "parentId": "67d6edc80a94cddf299d279e",
+    "translations": {
+      "ar": {
+        "name": "الزيوت النباتية والحيوانية",
+        "description": "زيوت نباتية وحيوانية عالية الجودة للاستخدامات الغذائية والصناعية والتغذوية."
+      },
+      "en": {
+        "name": "Vegetable and Animal Oils",
+        "description": "High-quality vegetable and animal oils for culinary, industrial, and nutritional applications."
+      }
+    }
+  },
+  {
+    "_id": "67d6ee8f0a94cddf299d27a2",
+    "name": "Frozen Products",
+    "description": "Premium frozen food products preserving freshness, quality, and nutritional content for extended shelf life.",
+    "parentId": "67d6edc80a94cddf299d279e",
+    "translations": {
+      "ar": {
+        "name": "المنتجات المجمدة",
+        "description": "منتجات غذائية مجمدة عالية الجودة تحافظ على الطزاجة والقيمة الغذائية لفترات طويلة."
+      },
+      "en": {
+        "name": "Frozen Products",
+        "description": "Premium frozen food products preserving freshness, quality, and nutritional content for extended shelf life."
+      }
+    }
+  },
+  {
+    "_id": "67d6ee690a94cddf299d27a1",
+    "name": "Seeds and Nuts",
+    "description": "Quality seeds and nuts rich in nutrients, suitable for food production and healthy snacks.",
+    "parentId": "67d6edc80a94cddf299d279e",
+    "translations": {
+      "ar": {
+        "name": "البذور والمكسرات",
+        "description": "بذور ومكسرات ذات جودة عالية وغنية بالعناصر الغذائية، تناسب صناعة الأغذية والوجبات الصحية."
+      },
+      "en": {
+        "name": "Seeds and Nuts",
+        "description": "Quality seeds and nuts rich in nutrients, suitable for food production and healthy snacks."
+      }
+    }
+  },
+  {
+    "_id": "67d6ee3d0a94cddf299d27a0",
+    "name": "Vegetables and Fruits",
+    "description": "Fresh vegetables and fruits offering nutritional value, ideal for retail and processing sectors.\n\n",
+    "parentId": "67d6edc80a94cddf299d279e",
+    "translations": {
+      "ar": {
+        "name": "الخضروات والفواكه",
+        "description": "خضروات وفواكه طازجة ذات قيمة غذائية عالية، مثالية لقطاع التجزئة والصناعات الغذائية."
+      },
+      "en": {
+        "name": "Vegetables and Fruits",
+        "description": "Fresh vegetables and fruits offering nutritional value, ideal for retail and processing sectors.\n\n"
+      }
+    }
+  },
+  {
+    "_id": "67d6ee150a94cddf299d279f",
+    "name": "Grains and Legumes",
+    "description": "Nutritious grains and legumes, providing essential ingredients for healthy foods and industrial processing.",
+    "parentId": "67d6edc80a94cddf299d279e",
+    "translations": {
+      "ar": {
+        "name": "الحبوب والبقوليات",
+        "description": "حبوب وبقوليات مغذية توفر مكونات أساسية للأغذية الصحية والمعالجة الصناعية."
+      },
+      "en": {
+        "name": "Grains and Legumes",
+        "description": "Nutritious grains and legumes, providing essential ingredients for healthy foods and industrial processing."
+      }
+    }
+  },
+  {
+    "_id": "67d6edc80a94cddf299d279e",
+    "name": "Agriculture and Food",
+    "description": "High-quality agricultural and food products ensuring freshness, sustainability, and nutritional value.",
+    "parentId": "67d61eb9e6e9e238348b9e80",
+    "translations": {
+      "ar": {
+        "name": "الزراعة والأغذية",
+        "description": "منتجات زراعية وغذائية عالية الجودة تضمن الطازجية والاستدامة والقيمة الغذائية."
+      },
+      "en": {
+        "name": "Agriculture and Food",
+        "description": "High-quality agricultural and food products ensuring freshness, sustainability, and nutritional value."
+      }
+    }
+  },
+  {
+    "_id": "67d6c0f1577bc2ff7e1bb5a9",
+    "name": "Industrial Oil",
+    "description": "High-performance industrial oils ensuring efficient operation, equipment longevity, and industrial reliability.",
+    "parentId": "67d6c0b0577bc2ff7e1bb5a8",
+    "translations": {
+      "ar": {
+        "name": "الزيوت الصناعية",
+        "description": "زيوت صناعية عالية الأداء تضمن كفاءة التشغيل وطول عمر المعدات والموثوقية الصناعية."
+      },
+      "en": {
+        "name": "Industrial Oil",
+        "description": "High-performance industrial oils ensuring efficient operation, equipment longevity, and industrial reliability."
+      }
+    }
+  },
+  {
+    "_id": "67d6c0b0577bc2ff7e1bb5a8",
+    "name": "Petrochemical Products",
+    "description": "Reliable petrochemicals essential for manufacturing, energy, and industrial productivity.",
+    "parentId": "67d61e59e6e9e238348b9e7f",
+    "translations": {
+      "ar": {
+        "name": "المنتجات البتروكيماوية",
+        "description": "منتجات بتروكيماوية موثوقة وضرورية للتصنيع والطاقة والإنتاجية الصناعية."
+      },
+      "en": {
+        "name": "Petrochemical Products",
+        "description": "Reliable petrochemicals essential for manufacturing, energy, and industrial productivity."
+      }
+    }
+  },
+  {
+    "_id": "67d6c08c577bc2ff7e1bb5a7",
+    "name": "Detergents",
+    "description": "Industrial detergents delivering powerful cleaning, hygiene, and sanitation solutions for various industries.",
+    "parentId": "67d6c022577bc2ff7e1bb5a4",
+    "translations": {
+      "ar": {
+        "name": "المنظفات",
+        "description": "منظفات صناعية توفر حلول تنظيف وتعقيم قوية وفعالة لمختلف القطاعات الصناعية."
+      },
+      "en": {
+        "name": "Detergents",
+        "description": "Industrial detergents delivering powerful cleaning, hygiene, and sanitation solutions for various industries."
+      }
+    }
+  },
+  {
+    "_id": "67d6c06c577bc2ff7e1bb5a6",
+    "name": "Basic Organic Chemicals",
+    "description": "Essential organic chemicals, providing foundational components for industrial production across sectors.",
+    "parentId": "67d6c022577bc2ff7e1bb5a4",
+    "translations": {
+      "ar": {
+        "name": "المواد الكيميائية العضوية الأساسية",
+        "description": "مواد كيميائية عضوية أساسية توفر مكونات رئيسية للإنتاج الصناعي في مختلف القطاعات.\n\n"
+      },
+      "en": {
+        "name": "Basic Organic Chemicals",
+        "description": "Essential organic chemicals, providing foundational components for industrial production across sectors."
+      }
+    }
+  },
+  {
+    "_id": "67d6c046577bc2ff7e1bb5a5",
+    "name": "Agricultural Chemicals",
+    "description": "Effective agricultural chemicals enhancing crop productivity, protection, and sustainable farming practices.",
+    "parentId": "67d6c022577bc2ff7e1bb5a4",
+    "translations": {
+      "ar": {
+        "name": "المواد الكيميائية الزراعية",
+        "description": "مواد كيميائية زراعية فعّالة لتعزيز إنتاجية المحاصيل وحمايتها وتحقيق الاستدامة الزراعية."
+      },
+      "en": {
+        "name": "Agricultural Chemicals",
+        "description": "Effective agricultural chemicals enhancing crop productivity, protection, and sustainable farming practices."
+      }
+    }
+  },
+  {
+    "_id": "67d6c022577bc2ff7e1bb5a4",
+    "name": "Chemical Materials",
+    "description": "High-quality industrial chemicals essential for diverse manufacturing processes, ensuring safety and efficiency.",
+    "parentId": "67d61e59e6e9e238348b9e7f",
+    "translations": {
+      "ar": {
+        "name": "المواد الكيميائية",
+        "description": "مواد كيميائية صناعية عالية الجودة ضرورية لمختلف عمليات التصنيع لضمان السلامة والكفاءة."
+      },
+      "en": {
+        "name": "Chemical Materials",
+        "description": "High-quality industrial chemicals essential for diverse manufacturing processes, ensuring safety and efficiency."
+      }
+    }
+  },
+  {
+    "_id": "67d6beef577bc2ff7e1bb5a3",
+    "name": "Rubber Raw Materials",
+    "description": "High-performance rubber raw materials essential for reliable, quality-focused industrial manufacturing.",
+    "parentId": "67d6be42577bc2ff7e1bb59e",
+    "translations": {
+      "ar": {
+        "name": "المواد الخام المطاطية",
+        "description": "مواد مطاطية خام عالية الأداء ضرورية للتصنيع الصناعي الموثوق عالي الجودة."
+      },
+      "en": {
+        "name": "Rubber Raw Materials",
+        "description": "High-performance rubber raw materials essential for reliable, quality-focused industrial manufacturing."
+      }
+    }
+  },
+  {
+    "_id": "67d6becc577bc2ff7e1bb5a2",
+    "name": "Rubber Products",
+    "description": "Durable rubber products ensuring elasticity, resilience, and reliability across industrial sectors.",
+    "parentId": "67d6be42577bc2ff7e1bb59e",
+    "translations": {
+      "ar": {
+        "name": "منتجات المطاط",
+        "description": "منتجات مطاطية متينة توفر المرونة والقوة والموثوقية في مختلف القطاعات الصناعية."
+      },
+      "en": {
+        "name": "Rubber Products",
+        "description": "Durable rubber products ensuring elasticity, resilience, and reliability across industrial sectors."
+      }
+    }
+  },
+  {
+    "_id": "67d6beab577bc2ff7e1bb5a1",
+    "name": "Plastic Raw Materials",
+    "description": "Premium plastic raw materials suitable for precision manufacturing, enhancing quality and consistency.",
+    "parentId": "67d6be42577bc2ff7e1bb59e",
+    "translations": {
+      "ar": {
+        "name": "المواد الخام البلاستيكية",
+        "description": "مواد بلاستيكية خام ممتازة للتصنيع الدقيق، تعزز الجودة والاتساق."
+      },
+      "en": {
+        "name": "Plastic Raw Materials",
+        "description": "Premium plastic raw materials suitable for precision manufacturing, enhancing quality and consistency."
+      }
+    }
+  },
+  {
+    "_id": "67d6be87577bc2ff7e1bb5a0",
+    "name": "Plastic Pipes",
+    "description": "Reliable plastic pipes ideal for efficient fluid transfer, industrial plumbing, and infrastructure projects.",
+    "parentId": "67d6be42577bc2ff7e1bb59e",
+    "translations": {
+      "ar": {
+        "name": "الأنابيب البلاستيكية",
+        "description": "أنابيب بلاستيكية موثوقة لنقل السوائل بكفاءة في أعمال السباكة الصناعية ومشاريع البنية التحتية."
+      },
+      "en": {
+        "name": "Plastic Pipes",
+        "description": "Reliable plastic pipes ideal for efficient fluid transfer, industrial plumbing, and infrastructure projects."
+      }
+    }
+  },
+  {
+    "_id": "67d6be61577bc2ff7e1bb59f",
+    "name": "Plastic Products",
+    "description": "High-quality plastic products optimized for durability, cost-efficiency, and diverse industrial applications.",
+    "parentId": "67d6be42577bc2ff7e1bb59e",
+    "translations": {
+      "ar": {
+        "name": "المنتجات البلاستيكية",
+        "description": "منتجات بلاستيكية عالية الجودة، مصممة للمتانة والتكلفة المنخفضة والتطبيقات الصناعية المتنوعة."
+      },
+      "en": {
+        "name": "Plastic Products",
+        "description": "High-quality plastic products optimized for durability, cost-efficiency, and diverse industrial applications."
+      }
+    }
+  },
+  {
+    "_id": "67d6be42577bc2ff7e1bb59e",
+    "name": "Rubber and Plastic",
+    "description": "Premium plastic and rubber materials enhancing flexibility, durability, and performance in industrial manufacturing.",
+    "parentId": "67d61e59e6e9e238348b9e7f",
+    "translations": {
+      "ar": {
+        "name": "المطاط والبلاستيك",
+        "description": "مواد مطاطية وبلاستيكية متميزة تعزز المرونة والمتانة والأداء في التصنيع الصناعي."
+      },
+      "en": {
+        "name": "Rubber and Plastic",
+        "description": "Premium plastic and rubber materials enhancing flexibility, durability, and performance in industrial manufacturing."
+      }
+    }
+  },
+  {
+    "_id": "67d6bdc5577bc2ff7e1bb59d",
+    "name": "Wire Mesh",
+    "description": "Versatile wire mesh suitable for filtering, protection, reinforcement, and industrial construction.",
+    "parentId": "67d6bd17577bc2ff7e1bb599",
+    "translations": {
+      "ar": {
+        "name": "شبكات الأسلاك المعدنية",
+        "description": "شبكات سلكية متعددة الاستخدامات تناسب التصفية والحماية والتعزيز والبناء الصناعي."
+      },
+      "en": {
+        "name": "Wire Mesh",
+        "description": "Versatile wire mesh suitable for filtering, protection, reinforcement, and industrial construction."
+      }
+    }
+  },
+  {
+    "_id": "67d6bd9e577bc2ff7e1bb59c",
+    "name": "Aluminum",
+    "description": "Lightweight, corrosion-resistant aluminium, ideal for precision manufacturing and versatile industrial applications.",
+    "parentId": "67d6bd17577bc2ff7e1bb599",
+    "translations": {
+      "ar": {
+        "name": "الألمنيوم",
+        "description": "ألمنيوم خفيف الوزن ومقاوم للصدأ، مثالي للتصنيع الدقيق والتطبيقات الصناعية المتنوعة."
+      },
+      "en": {
+        "name": "Aluminum",
+        "description": "Lightweight, corrosion-resistant aluminium, ideal for precision manufacturing and versatile industrial applications."
+      }
+    }
+  },
+  {
+    "_id": "67d6bd6a577bc2ff7e1bb59b",
+    "name": "Iron Products",
+    "description": "Durable iron products tailored for diverse industrial uses, offering resilience and efficiency.",
+    "parentId": "67d6bd17577bc2ff7e1bb599",
+    "translations": {
+      "ar": {
+        "name": "منتجات الحديد",
+        "description": "منتجات حديدية متينة تناسب مختلف الاستخدامات الصناعية، توفر المتانة والكفاءة."
+      },
+      "en": {
+        "name": "Iron Products",
+        "description": "Durable iron products tailored for diverse industrial uses, offering resilience and efficiency."
+      }
+    }
+  },
+  {
+    "_id": "67d6bd40577bc2ff7e1bb59a",
+    "name": "Steel",
+    "description": "High-quality steel for robust construction and reliable manufacturing, ensuring strength and longevity.",
+    "parentId": "67d6bd17577bc2ff7e1bb599",
+    "translations": {
+      "ar": {
+        "name": "الفولاذ",
+        "description": "فولاذ عالي الجودة للبناء القوي والتصنيع الموثوق، يضمن القوة وطول العمر."
+      },
+      "en": {
+        "name": "Steel",
+        "description": "High-quality steel for robust construction and reliable manufacturing, ensuring strength and longevity."
+      }
+    }
+  },
+  {
+    "_id": "67d6bd17577bc2ff7e1bb599",
+    "name": "Metals and Metallic Materials",
+    "description": "Premium metallic materials enhancing industrial productivity, offering strength, reliability, and durability.",
+    "parentId": "67d61e59e6e9e238348b9e7f",
+    "translations": {
+      "ar": {
+        "name": "المعادن والمواد المعدنية",
+        "description": "مواد معدنية عالية الجودة تعزز الإنتاجية الصناعية وتوفر القوة والموثوقية والمتانة."
+      },
+      "en": {
+        "name": "Metals and Metallic Materials",
+        "description": "Premium metallic materials enhancing industrial productivity, offering strength, reliability, and durability."
+      }
+    }
+  },
+  {
+    "_id": "67d6bc08577bc2ff7e1bb598",
+    "name": "Fisheries Technology",
+    "description": "Innovative fisheries technology enhancing productivity, sustainability, and aquatic resource management.",
+    "parentId": "67d61dd0e6e9e238348b9e7e",
+    "translations": {
+      "ar": {
+        "name": "تكنولوجيا مصايد الأسماك",
+        "description": "تكنولوجيا مبتكرة لمصايد الأسماك لتحسين الإنتاجية والاستدامة وإدارة الموارد المائية."
+      },
+      "en": {
+        "name": "Fisheries Technology",
+        "description": "Innovative fisheries technology enhancing productivity, sustainability, and aquatic resource management."
+      }
+    }
+  },
+  {
+    "_id": "67d6bbd6577bc2ff7e1bb597",
+    "name": "Medical Technology",
+    "description": "Advanced medical technology improving healthcare outcomes, diagnostics, and patient care.",
+    "parentId": "67d61dd0e6e9e238348b9e7e",
+    "translations": {
+      "ar": {
+        "name": "تكنولوجيا الطب",
+        "description": "تكنولوجيا طبية متقدمة لتحسين جودة الرعاية الصحية والتشخيص وخدمة المرضى."
+      },
+      "en": {
+        "name": "Medical Technology",
+        "description": "Advanced medical technology improving healthcare outcomes, diagnostics, and patient care."
+      }
+    }
+  },
+  {
+    "_id": "67d6bbb1577bc2ff7e1bb596",
+    "name": "Agricultural Technology",
+    "description": "Modern agricultural technology enhancing farm productivity, sustainability, and crop quality.",
+    "parentId": "67d61dd0e6e9e238348b9e7e",
+    "translations": {
+      "ar": {
+        "name": "تكنولوجيا الزراعة",
+        "description": "تكنولوجيا زراعية حديثة لتعزيز إنتاجية المزارع والاستدامة وجودة المحاصيل."
+      },
+      "en": {
+        "name": "Agricultural Technology",
+        "description": "Modern agricultural technology enhancing farm productivity, sustainability, and crop quality."
+      }
+    }
+  },
+  {
+    "_id": "67d6bb7f577bc2ff7e1bb595",
+    "name": "Mechanical Technology",
+    "description": "Innovative mechanical technology optimizing machinery performance and industrial efficiency.",
+    "parentId": "67d61dd0e6e9e238348b9e7e",
+    "translations": {
+      "ar": {
+        "name": "تكنولوجيا الميكانيكا",
+        "description": "تكنولوجيا ميكانيكية مبتكرة لتحسين أداء الآلات والكفاءة الصناعية."
+      },
+      "en": {
+        "name": "Mechanical Technology",
+        "description": "Innovative mechanical technology optimizing machinery performance and industrial efficiency."
+      }
+    }
+  },
+  {
+    "_id": "67d6bb5f577bc2ff7e1bb594",
+    "name": "Industrial and Manufacturing Technology",
+    "description": "Reliable technologies elevating industrial productivity, precision, and manufacturing processes.",
+    "parentId": "67d61dd0e6e9e238348b9e7e",
+    "translations": {
+      "ar": {
+        "name": "تكنولوجيا الصناعة والتصنيع",
+        "description": "تكنولوجيا موثوقة تعزز الإنتاجية والدقة في العمليات الصناعية والتصنيعية."
+      },
+      "en": {
+        "name": "Industrial and Manufacturing Technology",
+        "description": "Reliable technologies elevating industrial productivity, precision, and manufacturing processes."
+      }
+    }
+  },
+  {
+    "_id": "67d6bb37577bc2ff7e1bb593",
+    "name": "Educational Technology",
+    "description": "Smart educational technologies transforming learning experiences and institutional effectiveness.",
+    "parentId": "67d61dd0e6e9e238348b9e7e",
+    "translations": {
+      "ar": {
+        "name": "تكنولوجيا التعليم",
+        "description": "تكنولوجيا تعليمية ذكية لتطوير تجارب التعلّم ورفع كفاءة المؤسسات التعليمية."
+      },
+      "en": {
+        "name": "Educational Technology",
+        "description": "Smart educational technologies transforming learning experiences and institutional effectiveness."
+      }
+    }
+  },
+  {
+    "_id": "67d6bb14577bc2ff7e1bb592",
+    "name": "Road Technology",
+    "description": "Efficient road technology enhancing infrastructure quality, durability, and safety standards.",
+    "parentId": "67d61dd0e6e9e238348b9e7e",
+    "translations": {
+      "ar": {
+        "name": "تكنولوجيا الطرق",
+        "description": "تكنولوجيا طرق فعالة لتعزيز جودة البنية التحتية والمعايير العالية للسلامة والمتانة."
+      },
+      "en": {
+        "name": "Road Technology",
+        "description": "Efficient road technology enhancing infrastructure quality, durability, and safety standards."
+      }
+    }
+  },
+  {
+    "_id": "67d6baf5577bc2ff7e1bb591",
+    "name": "Logistics Technology",
+    "description": "Innovative logistics technology, streamlining supply chain management and operational agility.",
+    "parentId": "67d61dd0e6e9e238348b9e7e",
+    "translations": {
+      "ar": {
+        "name": "تكنولوجيا الخدمات اللوجستية",
+        "description": "تكنولوجيا لوجستية مبتكرة لتحسين إدارة سلاسل التوريد والمرونة التشغيلية."
+      },
+      "en": {
+        "name": "Logistics Technology",
+        "description": "Innovative logistics technology, streamlining supply chain management and operational agility."
+      }
+    }
+  },
+  {
+    "_id": "67d6bad2577bc2ff7e1bb590",
+    "name": "Electronic Technology",
+    "description": "High-quality electronic technology optimizing precision and innovation in electronic industries.",
+    "parentId": "67d61dd0e6e9e238348b9e7e",
+    "translations": {
+      "ar": {
+        "name": "التكنولوجيا الإلكترونية",
+        "description": "تكنولوجيا إلكترونية عالية الجودة لتعزيز الدقة والابتكار في الصناعات الإلكترونية."
+      },
+      "en": {
+        "name": "Electronic Technology",
+        "description": "High-quality electronic technology optimizing precision and innovation in electronic industries."
+      }
+    }
+  },
+  {
+    "_id": "67d6ba8d577bc2ff7e1bb58f",
+    "name": "Communication Technology",
+    "description": "Advanced communication technology solutions, boosting connectivity and operational efficiency.",
+    "parentId": "67d61dd0e6e9e238348b9e7e",
+    "translations": {
+      "ar": {
+        "name": "تكنولوجيا الاتصالات",
+        "description": "حلول متقدمة في تكنولوجيا الاتصالات لتعزيز التواصل وكفاءة العمليات."
+      },
+      "en": {
+        "name": "Communication Technology",
+        "description": "Advanced communication technology solutions, boosting connectivity and operational efficiency."
+      }
+    }
+  },
+  {
+    "_id": "67d6ba69577bc2ff7e1bb58e",
+    "name": "Information Technology",
+    "description": "Cutting-edge IT solutions enhancing business productivity, security, and digital transformation.",
+    "parentId": "67d61dd0e6e9e238348b9e7e",
+    "translations": {
+      "ar": {
+        "name": "تكنولوجيا المعلومات",
+        "description": "حلول متطورة لتكنولوجيا المعلومات تعزز إنتاجية الأعمال، والأمن، والتحول الرقمي."
+      },
+      "en": {
+        "name": "Information Technology",
+        "description": "Cutting-edge IT solutions enhancing business productivity, security, and digital transformation."
+      }
+    }
+  },
+  {
+    "_id": "67d6b938577bc2ff7e1bb58d",
+    "name": "Navigation Equipment",
+    "description": "Precision navigation equipment ensuring accuracy, safety, and efficiency in maritime and industrial use.",
+    "parentId": "67d61d8be6e9e238348b9e7d",
+    "translations": {
+      "ar": {
+        "name": "معدات الملاحة",
+        "description": "معدات ملاحة دقيقة لضمان الدقة والسلامة والكفاءة في الاستخدام البحري والصناعي."
+      },
+      "en": {
+        "name": "Navigation Equipment",
+        "description": "Precision navigation equipment ensuring accuracy, safety, and efficiency in maritime and industrial use."
+      }
+    }
+  },
+  {
+    "_id": "67d6b90a577bc2ff7e1bb58c",
+    "name": "Recycling Equipment",
+    "description": "Innovative recycling equipment optimizing waste management, sustainability, and resource recovery.",
+    "parentId": "67d61d8be6e9e238348b9e7d",
+    "translations": {
+      "ar": {
+        "name": "معدات إعادة التدوير",
+        "description": "معدات إعادة تدوير مبتكرة لتعزيز إدارة النفايات والاستدامة واستعادة الموارد."
+      },
+      "en": {
+        "name": "Recycling Equipment",
+        "description": "Innovative recycling equipment optimizing waste management, sustainability, and resource recovery."
+      }
+    }
+  },
+  {
+    "_id": "67d6b8e7577bc2ff7e1bb58b",
+    "name": "Food Sterilization and Filtration Systems",
+    "description": "Reliable sterilization and filtration systems, ensuring safety and quality in food production.",
+    "parentId": "67d61d8be6e9e238348b9e7d",
+    "translations": {
+      "ar": {
+        "name": "أنظمة تعقيم وتصفية الأغذية",
+        "description": "أنظمة موثوقة لتعقيم وتصفية الأغذية لضمان السلامة والجودة في الإنتاج الغذائي."
+      },
+      "en": {
+        "name": "Food Sterilization and Filtration Systems",
+        "description": "Reliable sterilization and filtration systems, ensuring safety and quality in food production."
+      }
+    }
+  },
+  {
+    "_id": "67d6b8bd577bc2ff7e1bb58a",
+    "name": "Food Evaporation Systems",
+    "description": "Advanced evaporation systems for efficient concentration and processing in food manufacturing.",
+    "parentId": "67d61d8be6e9e238348b9e7d",
+    "translations": {
+      "ar": {
+        "name": "أنظمة تبخير الأغذية",
+        "description": "أنظمة تبخير متقدمة للتركيز والمعالجة الفعالة في تصنيع الأغذية."
+      },
+      "en": {
+        "name": "Food Evaporation Systems",
+        "description": "Advanced evaporation systems for efficient concentration and processing in food manufacturing."
+      }
+    }
+  },
+  {
+    "_id": "67d6b896577bc2ff7e1bb589",
+    "name": "Ventilation Systems",
+    "description": "High-performance ventilation systems, enhancing air quality and environmental control in facilities.",
+    "parentId": "67d61d8be6e9e238348b9e7d",
+    "translations": {
+      "ar": {
+        "name": "أنظمة التهوية",
+        "description": "أنظمة تهوية عالية الأداء لتحسين جودة الهواء والتحكم البيئي في المنشآت."
+      },
+      "en": {
+        "name": "Ventilation Systems",
+        "description": "High-performance ventilation systems, enhancing air quality and environmental control in facilities."
+      }
+    }
+  },
+  {
+    "_id": "67d6b863577bc2ff7e1bb588",
+    "name": "Packaging Equipment",
+    "description": "Efficient packaging equipment providing precision, speed, and reliability for industrial packaging.",
+    "parentId": "67d61d8be6e9e238348b9e7d",
+    "translations": {
+      "ar": {
+        "name": "معدات التغليف والتعبئة",
+        "description": "معدات تعبئة وتغليف فعالة توفر الدقة والسرعة والموثوقية للتغليف الصناعي."
+      },
+      "en": {
+        "name": "Packaging Equipment",
+        "description": "Efficient packaging equipment providing precision, speed, and reliability for industrial packaging."
+      }
+    }
+  },
+  {
+    "_id": "67d6b832577bc2ff7e1bb587",
+    "name": "Financial Equipment",
+    "description": "Specialized financial equipment, ensuring secure and efficient monetary operations and transactions.",
+    "parentId": "67d61d8be6e9e238348b9e7d",
+    "translations": {
+      "ar": {
+        "name": "المعدات المالية",
+        "description": "معدات مالية متخصصة تضمن عمليات ومعاملات مالية آمنة وعالية الكفاءة."
+      },
+      "en": {
+        "name": "Financial Equipment",
+        "description": "Specialized financial equipment, ensuring secure and efficient monetary operations and transactions."
+      }
+    }
+  },
+  {
+    "_id": "67d6b7de577bc2ff7e1bb586",
+    "name": "Electrical Equipment and Supplies",
+    "description": "Reliable electrical equipment and supplies offering safe and efficient industrial electrical solutions.",
+    "parentId": "67d61d8be6e9e238348b9e7d",
+    "translations": {
+      "ar": {
+        "name": "المعدات والتجهيزات الكهربائية",
+        "description": "معدات وتجهيزات كهربائية موثوقة توفر حلولًا صناعية آمنة وعالية الكفاءة."
+      },
+      "en": {
+        "name": "Electrical Equipment and Supplies",
+        "description": "Reliable electrical equipment and supplies offering safe and efficient industrial electrical solutions."
+      }
+    }
+  },
+  {
+    "_id": "67d6b7bb577bc2ff7e1bb585",
+    "name": "Industrial Tools and Equipment",
+    "description": "Durable industrial tools enhancing productivity, safety, and operational efficiency.",
+    "parentId": "67d61d8be6e9e238348b9e7d",
+    "translations": {
+      "ar": {
+        "name": "الأدوات والمعدات الصناعية",
+        "description": "أدوات ومعدات صناعية متينة تعزز الإنتاجية والسلامة والكفاءة التشغيلية."
+      },
+      "en": {
+        "name": "Industrial Tools and Equipment",
+        "description": "Durable industrial tools enhancing productivity, safety, and operational efficiency."
+      }
+    }
+  },
+  {
+    "_id": "67d6b797577bc2ff7e1bb584",
+    "name": "Welding and Carpentry Equipment",
+    "description": "Professional welding and carpentry tools, ensuring accuracy and quality craftsmanship.",
+    "parentId": "67d61d8be6e9e238348b9e7d",
+    "translations": {
+      "ar": {
+        "name": "معدات اللحام والنجارة",
+        "description": "أدوات ومعدات لحام ونجارة احترافية تضمن دقة وجودة عالية في التصنيع."
+      },
+      "en": {
+        "name": "Welding and Carpentry Equipment",
+        "description": "Professional welding and carpentry tools, ensuring accuracy and quality craftsmanship."
+      }
+    }
+  },
+  {
+    "_id": "67d6b76c577bc2ff7e1bb583",
+    "name": "Cooling and Heat Exchange Equipment",
+    "description": "High-efficiency cooling and heat exchange equipment, optimizing thermal management for industries.",
+    "parentId": "67d61d8be6e9e238348b9e7d",
+    "translations": {
+      "ar": {
+        "name": "معدات التبريد وتبادل الحرارة",
+        "description": "معدات تبريد وتبادل حراري عالية الكفاءة لتحسين إدارة الحرارة في القطاعات الصناعية."
+      },
+      "en": {
+        "name": "Cooling and Heat Exchange Equipment",
+        "description": "High-efficiency cooling and heat exchange equipment, optimizing thermal management for industries."
+      }
+    }
+  },
+  {
+    "_id": "67d6b745577bc2ff7e1bb582",
+    "name": "Shipping and Storage Equipment",
+    "description": "Robust equipment for reliable shipping, handling, and storage solutions ensuring safe transport of goods.",
+    "parentId": "67d61d8be6e9e238348b9e7d",
+    "translations": {
+      "ar": {
+        "name": "معدات الشحن والتخزين",
+        "description": "معدات متينة لحلول شحن ومناولة وتخزين آمنة وفعالة تضمن نقلًا آمنًا للبضائع."
+      },
+      "en": {
+        "name": "Shipping and Storage Equipment",
+        "description": "Robust equipment for reliable shipping, handling, and storage solutions ensuring safe transport of goods."
+      }
+    }
+  },
+  {
+    "_id": "67d6b6bd577bc2ff7e1bb581",
+    "name": "Trade Exhibition Equipment",
+    "description": "Versatile exhibition equipment designed to attract clients and professionally showcase products and services.",
+    "parentId": "67d61d8be6e9e238348b9e7d",
+    "translations": {
+      "ar": {
+        "name": "معدات المعارض التجارية",
+        "description": "معدات معارض متنوعة مصممة لجذب العملاء وعرض المنتجات والخدمات بشكل احترافي."
+      },
+      "en": {
+        "name": "Trade Exhibition Equipment",
+        "description": "Versatile exhibition equipment designed to attract clients and professionally showcase products and services."
+      }
+    }
+  },
+  {
+    "_id": "67d6b697577bc2ff7e1bb580",
+    "name": "Advertising Equipment",
+    "description": "Innovative advertising equipment delivering effective solutions for impactful promotions and branding.",
+    "parentId": "67d61d8be6e9e238348b9e7d",
+    "translations": {
+      "ar": {
+        "name": "معدات الدعاية والإعلان",
+        "description": "معدات إعلانية مبتكرة تقدم حلولًا فعالة لتعزيز العلامات التجارية والحملات الترويجية."
+      },
+      "en": {
+        "name": "Advertising Equipment",
+        "description": "Innovative advertising equipment delivering effective solutions for impactful promotions and branding."
+      }
+    }
+  },
+  {
+    "_id": "67d6b66e577bc2ff7e1bb57f",
+    "name": "Store and Supermarket Supplies",
+    "description": "Essential store and supermarket equipment, enhancing retail efficiency and customer satisfaction.",
+    "parentId": "67d61d8be6e9e238348b9e7d",
+    "translations": {
+      "ar": {
+        "name": "مستلزمات المتاجر والسوبرماركت",
+        "description": "معدات أساسية للمتاجر والسوبرماركت لتعزيز كفاءة البيع بالتجزئة وإرضاء العملاء."
+      },
+      "en": {
+        "name": "Store and Supermarket Supplies",
+        "description": "Essential store and supermarket equipment, enhancing retail efficiency and customer satisfaction."
+      }
+    }
+  },
+  {
+    "_id": "67d6b63d577bc2ff7e1bb57e",
+    "name": "Hotel and Restaurant Supplies",
+    "description": "Durable supplies and equipment tailored specifically for hospitality excellence in hotels and restaurants.",
+    "parentId": "67d61d8be6e9e238348b9e7d",
+    "translations": {
+      "ar": {
+        "name": "تجهيزات الفنادق والمطاعم",
+        "description": "معدات ومستلزمات متينة ومصممة خصيصًا لتحقيق التميز في قطاع الضيافة والفنادق والمطاعم."
+      },
+      "en": {
+        "name": "Hotel and Restaurant Supplies",
+        "description": "Durable supplies and equipment tailored specifically for hospitality excellence in hotels and restaurants."
+      }
+    }
+  },
+  {
+    "_id": "67d6b5f8577bc2ff7e1bb57d",
+    "name": "Beauty and Skin Care Equipment",
+    "description": "Professional-grade beauty and skincare equipment for optimal results in beauty salons and clinics.",
+    "parentId": "67d61d8be6e9e238348b9e7d",
+    "translations": {
+      "ar": {
+        "name": "معدات التجميل والعناية بالبشرة",
+        "description": "معدات احترافية للتجميل والعناية بالبشرة لتحقيق أفضل النتائج في الصالونات والعيادات."
+      },
+      "en": {
+        "name": "Beauty and Skin Care Equipment",
+        "description": "Professional-grade beauty and skincare equipment for optimal results in beauty salons and clinics."
+      }
+    }
+  },
+  {
+    "_id": "67d6b5d0577bc2ff7e1bb57c",
+    "name": "Medical Equipment",
+    "description": "High-quality medical equipment ensuring precision diagnostics, patient care, and healthcare excellence.",
+    "parentId": "67d61d8be6e9e238348b9e7d",
+    "translations": {
+      "ar": {
+        "name": "المعدات الطبية",
+        "description": "معدات طبية عالية الجودة تضمن دقة التشخيص ورعاية المرضى والتميز في الخدمات الصحية."
+      },
+      "en": {
+        "name": "Medical Equipment",
+        "description": "High-quality medical equipment ensuring precision diagnostics, patient care, and healthcare excellence."
+      }
+    }
+  },
+  {
+    "_id": "67d6b5a7577bc2ff7e1bb57b",
+    "name": "Agricultural Equipment",
+    "description": "Advanced agricultural equipment designed for increased productivity, quality yield, and farming efficiency.",
+    "picture": "67dbf19ebc84c023409f492c",
+    "pictureFile": {
+      "_id": "67dbf19ebc84c023409f492c",
+      "path": "http://services.larsa.io/files/file/ctlasuc5drjs73c4p7v0/2025/3/0b710e31-2841-488f-acfc-ded253bb0d8f.png"
+    },
+    "parentId": "67d61d8be6e9e238348b9e7d",
+    "translations": {
+      "ar": {
+        "name": "المعدات الزراعية",
+        "description": "معدات زراعية متطورة لزيادة الإنتاجية وجودة المحاصيل والكفاءة الزراعية."
+      },
+      "en": {
+        "name": "Agricultural Equipment",
+        "description": "Advanced agricultural equipment designed for increased productivity, quality yield, and farming efficiency."
+      }
+    }
+  },
+  {
+    "_id": "67d6b580577bc2ff7e1bb57a",
+    "name": "Energy and Metals Equipment",
+    "description": "Reliable equipment solutions specialized in energy production and metal processing for industrial efficiency.",
+    "parentId": "67d61d8be6e9e238348b9e7d",
+    "translations": {
+      "ar": {
+        "name": "معدات الطاقة والمعادن",
+        "description": "حلول معدات موثوقة متخصصة في إنتاج الطاقة ومعالجة المعادن لكفاءة صناعية عالية."
+      },
+      "en": {
+        "name": "Energy and Metals Equipment",
+        "description": "Reliable equipment solutions specialized in energy production and metal processing for industrial efficiency."
+      }
+    }
+  },
+  {
+    "_id": "67d6b4b0577bc2ff7e1bb579",
+    "name": "Renewable Energy Lines",
+    "description": "State-of-the-art renewable energy production lines, facilitating sustainable solutions for energy-efficient industries.",
+    "parentId": "67d61d1fe6e9e238348b9e7c",
+    "translations": {
+      "ar": {
+        "name": "خطوط الطاقة المتجددة",
+        "description": "خطوط إنتاج متطورة للطاقة المتجددة توفر حلولاً مستدامة للصناعات المهتمة بكفاءة الطاقة."
+      },
+      "en": {
+        "name": "Renewable Energy Lines",
+        "description": "State-of-the-art renewable energy production lines, facilitating sustainable solutions for energy-efficient industries."
+      }
+    }
+  },
+  {
+    "_id": "67d6b487577bc2ff7e1bb578",
+    "name": "Electronic Product Lines",
+    "description": "Sophisticated electronic product lines designed for precision manufacturing, supporting technology-driven industries.",
+    "parentId": "67d61d1fe6e9e238348b9e7c",
+    "translations": {
+      "ar": {
+        "name": "خطوط المنتجات الإلكترونية",
+        "description": "خطوط منتجات إلكترونية متطورة مصممة للتصنيع الدقيق لدعم القطاعات التكنولوجية المتقدمة."
+      },
+      "en": {
+        "name": "Electronic Product Lines",
+        "description": "Sophisticated electronic product lines designed for precision manufacturing, supporting technology-driven industries."
+      }
+    }
+  },
+  {
+    "_id": "67d6b458577bc2ff7e1bb577",
+    "name": "Pharmaceutical Production Lines",
+    "description": "Reliable pharmaceutical production lines ensuring compliance, quality, and productivity in pharmaceutical manufacturing.",
+    "parentId": "67d61d1fe6e9e238348b9e7c",
+    "translations": {
+      "ar": {
+        "name": "خطوط الإنتاج الدوائي",
+        "description": "خطوط إنتاج دوائية موثوقة تضمن الامتثال والجودة والإنتاجية العالية في صناعة الأدوية."
+      },
+      "en": {
+        "name": "Pharmaceutical Production Lines",
+        "description": "Reliable pharmaceutical production lines ensuring compliance, quality, and productivity in pharmaceutical manufacturing."
+      }
+    }
+  },
+  {
+    "_id": "67d6b430577bc2ff7e1bb576",
+    "name": "Metals and Metallurgy Lines",
+    "description": "Robust metal and metallurgy lines, offering precision engineering solutions to boost your manufacturing efficiency.",
+    "parentId": "67d61d1fe6e9e238348b9e7c",
+    "translations": {
+      "ar": {
+        "name": "خطوط المعادن والصناعات المعدنية",
+        "description": "خطوط قوية للمعادن والصناعات المعدنية توفر حلولاً هندسية دقيقة لتعزيز كفاءة التصنيع لديك."
+      },
+      "en": {
+        "name": "Metals and Metallurgy Lines",
+        "description": "Robust metal and metallurgy lines, offering precision engineering solutions to boost your manufacturing efficiency."
+      }
+    }
+  },
+  {
+    "_id": "67d6b402577bc2ff7e1bb575",
+    "name": "Plastic and Rubber Lines",
+    "description": "Innovative plastic and rubber production lines, maximizing output quality and operational efficiency for industries.",
+    "parentId": "67d61d1fe6e9e238348b9e7c",
+    "translations": {
+      "ar": {
+        "name": "خطوط البلاستيك والمطاط",
+        "description": "خطوط إنتاج مبتكرة للبلاستيك والمطاط تعزز جودة الإنتاج والكفاءة التشغيلية في مختلف الصناعات."
+      },
+      "en": {
+        "name": "Plastic and Rubber Lines",
+        "description": "Innovative plastic and rubber production lines, maximizing output quality and operational efficiency for industries."
+      }
+    }
+  },
+  {
+    "_id": "67d6b3ca577bc2ff7e1bb574",
+    "name": "Laser Equipment Lines",
+    "description": "High-performance laser equipment lines providing accuracy and speed for industrial manufacturing and cutting processes.\n\n",
+    "parentId": "67d61d1fe6e9e238348b9e7c",
+    "translations": {
+      "ar": {
+        "name": "خطوط معدات الليزر",
+        "description": "خطوط معدات ليزر عالية الأداء توفر الدقة والسرعة لعمليات التصنيع والقطع الصناعي."
+      },
+      "en": {
+        "name": "Laser Equipment Lines",
+        "description": "High-performance laser equipment lines providing accuracy and speed for industrial manufacturing and cutting processes.\n\n"
+      }
+    }
+  },
+  {
+    "_id": "67d6b39a577bc2ff7e1bb573",
+    "name": "Packaging Lines",
+    "description": "Advanced packaging lines ensuring precision, speed, and efficiency to enhance your industrial packaging capabilities.",
+    "parentId": "67d61d1fe6e9e238348b9e7c",
+    "translations": {
+      "ar": {
+        "name": "خطوط التغليف والتعبئة",
+        "description": "خطوط تغليف متقدمة تضمن الدقة والسرعة والكفاءة لتعزيز قدرات التعبئة والتغليف الصناعية لديك."
+      },
+      "en": {
+        "name": "Packaging Lines",
+        "description": "Advanced packaging lines ensuring precision, speed, and efficiency to enhance your industrial packaging capabilities."
+      }
+    }
+  },
+  {
+    "_id": "67d6b36d577bc2ff7e1bb572",
+    "name": "Paper and Printing Production Lines",
+    "description": "Cutting-edge paper and printing production lines designed to optimize productivity and precision for printing businesses.",
+    "parentId": "67d61d1fe6e9e238348b9e7c",
+    "translations": {
+      "ar": {
+        "name": "خطوط إنتاج الورق والطباعة",
+        "description": "خطوط إنتاج حديثة للورق والطباعة مصممة لتعزيز الإنتاجية والدقة في قطاع الطباعة."
+      },
+      "en": {
+        "name": "Paper and Printing Production Lines",
+        "description": "Cutting-edge paper and printing production lines designed to optimize productivity and precision for printing businesses."
+      }
+    }
+  },
+  {
+    "_id": "67d6b339577bc2ff7e1bb571",
+    "name": "Furniture and Furnishings Production Lines",
+    "description": "Efficient furniture production lines delivering quality furnishings, tailored to meet industrial and commercial demands.",
+    "parentId": "67d61d1fe6e9e238348b9e7c",
+    "translations": {
+      "ar": {
+        "name": "خطوط إنتاج الأثاث والمفروشات",
+        "description": "خطوط إنتاج أثاث عالية الكفاءة توفر مفروشات ذات جودة تلبي الاحتياجات الصناعية والتجارية."
+      },
+      "en": {
+        "name": "Furniture and Furnishings Production Lines",
+        "description": "Efficient furniture production lines delivering quality furnishings, tailored to meet industrial and commercial demands."
+      }
+    }
+  },
+  {
+    "_id": "67d6b308577bc2ff7e1bb570",
+    "name": "Building Materials and Decoration Production Lines",
+    "description": "Innovative production lines for building materials and decorations, offering reliable solutions for construction industry growth.",
+    "parentId": "67d61d1fe6e9e238348b9e7c",
+    "translations": {
+      "ar": {
+        "name": "خطوط إنتاج مواد البناء والديكور",
+        "description": "خطوط إنتاج مبتكرة لمواد البناء والديكور، تقدم حلولاً موثوقة لدعم نمو قطاع البناء."
+      },
+      "en": {
+        "name": "Building Materials and Decoration Production Lines",
+        "description": "Innovative production lines for building materials and decorations, offering reliable solutions for construction industry growth."
+      }
+    }
+  },
+  {
+    "_id": "67d6b246577bc2ff7e1bb56f",
+    "name": "Textile and Spinning Lines",
+    "description": "Explore advanced textile and spinning lines, enhancing efficiency and production quality for your business in the textile industry.",
+    "parentId": "67d61d1fe6e9e238348b9e7c",
+    "translations": {
+      "ar": {
+        "name": "خطوط النسيج والغزل",
+        "description": "اكتشف خطوط النسيج والغزل المتقدمة لتعزيز الكفاءة وجودة الإنتاج في مجال صناعة المنسوجات."
+      },
+      "en": {
+        "name": "Textile and Spinning Lines",
+        "description": "Explore advanced textile and spinning lines, enhancing efficiency and production quality for your business in the textile industry."
+      }
+    }
+  },
+  {
+    "_id": "67d62302e6e9e238348b9e85",
+    "name": "Food and Beverage Lines",
+    "description": "Food and beverage lines are automated systems designed for efficient production, packaging, and processing of foods and drinks, ensuring product quality, safety, and productivity.",
+    "parentId": "67d61d1fe6e9e238348b9e7c",
+    "translations": {
+      "ar": {
+        "name": "خطوط إنتاج الأغذية والمشروبات",
+        "description": "خطوط إنتاج الأغذية والمشروبات هي أنظمة آلية مصممة للإنتاج والتعبئة والمعالجة الفعّالة للأطعمة والمشروبات، مما يضمن جودة المنتج وسلامته وزيادة الإنتاجية."
+      },
+      "en": {
+        "name": "Food and Beverage Lines",
+        "description": "Food and beverage lines are automated systems designed for efficient production, packaging, and processing of foods and drinks, ensuring product quality, safety, and productivity."
+      }
+    }
+  },
+  {
+    "_id": "67d61eb9e6e9e238348b9e80",
+    "name": "Goods and Products",
+    "description": "Goods and products are tangible items manufactured for consumer or industrial use, fulfilling specific needs, driving economic growth, and supporting trade across various markets globally.",
+    "translations": {
+      "ar": {
+        "name": "السلع والمنتجات",
+        "description": "السلع والمنتجات هي مواد ملموسة مصنّعة للاستخدام الاستهلاكي أو الصناعي، تلبي احتياجات محددة، وتعزز النمو الاقتصادي وتدعم التجارة في مختلف الأسواق عالميًا."
+      },
+      "en": {
+        "name": "Goods and Products",
+        "description": "Goods and products are tangible items manufactured for consumer or industrial use, fulfilling specific needs, driving economic growth, and supporting trade across various markets globally."
+      }
+    }
+  },
+  {
+    "_id": "67d61e59e6e9e238348b9e7f",
+    "name": "Raw Materials for Industry",
+    "description": "Raw materials for industry are natural or processed resources used as essential inputs for manufacturing products, crucial in sectors like construction, textiles, chemicals, and automotive.",
+    "translations": {
+      "ar": {
+        "name": "المواد الأولية للصناعة",
+        "description": "المواد الخام للصناعة هي موارد طبيعية أو معالجة تُستخدم كمدخلات أساسية في تصنيع المنتجات، وتُعد ضرورية في قطاعات مثل البناء والمنسوجات والصناعات الكيميائية والسيارات."
+      },
+      "en": {
+        "name": "Raw Materials for Industry",
+        "description": "Raw materials for industry are natural or processed resources used as essential inputs for manufacturing products, crucial in sectors like construction, textiles, chemicals, and automotive."
+      }
+    }
+  },
+  {
+    "_id": "67d61dd0e6e9e238348b9e7e",
+    "name": "Technology",
+    "description": "Technology encompasses tools, techniques, and innovations designed to simplify tasks, enhance productivity, and improve life quality, impacting sectors such as communication, business, healthcare, and education.\n\n",
+    "translations": {
+      "ar": {
+        "name": "التكنولوجيا",
+        "description": "التكنولوجيا هي الأدوات والتقنيات والابتكارات التي تهدف إلى تبسيط المهام وزيادة الإنتاجية وتحسين جودة الحياة، مؤثرةً في قطاعات مثل الاتصالات والأعمال والرعاية الصحية والتعليم."
+      },
+      "en": {
+        "name": "Technology",
+        "description": "Technology encompasses tools, techniques, and innovations designed to simplify tasks, enhance productivity, and improve life quality, impacting sectors such as communication, business, healthcare, and education.\n\n"
+      }
+    }
+  },
+  {
+    "_id": "67d61d8be6e9e238348b9e7d",
+    "name": "Equipment",
+    "description": "Equipment refers to tools, machinery, or devices designed to perform specific tasks, enhancing efficiency, accuracy, and productivity across industries including construction, manufacturing, and healthcare.",
+    "translations": {
+      "ar": {
+        "name": "المعدات",
+        "description": "المعدات هي الأدوات أو الآلات أو الأجهزة المُصممة لأداء مهام محددة، مما يعزز الكفاءة والدقة والإنتاجية في مختلف القطاعات مثل البناء والتصنيع والرعاية الصحية."
+      },
+      "en": {
+        "name": "Equipment",
+        "description": "Equipment refers to tools, machinery, or devices designed to perform specific tasks, enhancing efficiency, accuracy, and productivity across industries including construction, manufacturing, and healthcare."
+      }
+    }
+  },
+  {
+    "_id": "67d61d1fe6e9e238348b9e7c",
+    "name": "Industrial Production Lines",
+    "description": "Industrial production lines are automated systems using advanced machinery and robotics for efficient mass manufacturing, enhancing productivity and product quality across various industries.",
+    "picture": "67e2f9b42772173d99e8ba8a",
+    "pictureFile": {
+      "_id": "67e2f9b42772173d99e8ba8a",
+      "path": "http://services.larsa.io/files/file/ctlasuc5drjs73c4p7v0/2025/3/91cc4dea-0090-4505-be54-bbe135b06245.png"
+    },
+    "translations": {
+      "ar": {
+        "name": "خطوط الإنتاج الصناعية",
+        "description": "خطوط الإنتاج الصناعية هي أنظمة آلية تستخدم الآلات المتقدمة والروبوتات للتصنيع الشامل بكفاءة، مما يعزز الإنتاجية وجودة المنتجات في مختلف الصناعات."
+      },
+      "en": {
+        "name": "Industrial Production Lines",
+        "description": "Industrial production lines are automated systems using advanced machinery and robotics for efficient mass manufacturing, enhancing productivity and product quality across various industries."
+      }
+    }
+  }
+]

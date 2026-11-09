@@ -1,0 +1,19 @@
+---
+description:
+ when generate a postman documentations for this project.
+ for the url we use {{base_url}}/admin for admin or {{base_url}}/ for web
+firs of all in all endpoint add these headers
+x-access-token:{{auth_token}}
+x-client:{{client_id}}
+also we name the endpoint with small letter 
+folder also with small letter 
+we don't use Authorization header
+we don't use baseUrl we use base_url instead 
+we don't use {{id}} we use :id instead
+in the code we will have a single doc file for each module for example contract will have its won doc file, also we name them like get, get one, create, update .....
+Also you should read the request dto and understand it and give a full example. 
+also if we have a handler for web, we create a sub folder in the postman for the web.
+By default all endpoint start with {{base_url}}/admin instead of the one we mention that it is for web so it start with {{base_url}}/
+globs: to follow the same style
+alwaysApply: true
+---

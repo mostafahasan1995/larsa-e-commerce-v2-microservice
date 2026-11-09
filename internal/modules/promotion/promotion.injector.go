@@ -1,0 +1,23 @@
+package promotion_init
+
+import (
+	handlers "larsa-e-commerce-microservice-v2/internal/modules/promotion/handlers"
+	repos "larsa-e-commerce-microservice-v2/internal/modules/promotion/repos"
+	services "larsa-e-commerce-microservice-v2/internal/modules/promotion/services"
+
+	"github.com/go-chi/chi/v5"
+	"github.com/samber/do"
+)
+
+func Init(injector *do.Injector, r *chi.Mux) *do.Injector {
+	// repos
+	do.Provide(injector, repos.NewPromotionRepo)
+
+	// services
+	do.Provide(injector, services.NewPromotionService)
+
+	// handlers
+	handlers.NewPromotionHandler(injector, r)
+
+	return injector
+}

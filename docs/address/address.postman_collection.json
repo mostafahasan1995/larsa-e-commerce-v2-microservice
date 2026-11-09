@@ -1,0 +1,16 @@
+{
+  "info": { "name": "address api", "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json", "version": "1.0.0", "description": "address endpoints for web" },
+  "variable": [ { "key": "base_url", "value": "http://localhost:8080" }, { "key": "auth_token", "value": "" }, { "key": "client_id", "value": "" } ],
+  "item": [
+    { "name": "address", "item": [
+      { "name": "create address", "request": { "method": "POST", "header": [ { "key": "Content-Type", "value": "application/json" }, { "key": "x-access-token", "value": "{{auth_token}}" }, { "key": "x-client", "value": "{{client_id}}" } ], "url": { "raw": "{{base_url}}/addresses", "host": ["{{base_url}}"], "path": ["addresses"] }, "body": { "mode": "raw", "raw": "{}" } } },
+      { "name": "get all", "request": { "method": "GET", "header": [ { "key": "x-access-token", "value": "{{auth_token}}" }, { "key": "x-client", "value": "{{client_id}}" } ], "url": { "raw": "{{base_url}}/addresses/all", "host": ["{{base_url}}"], "path": ["addresses","all"] } } },
+      { "name": "list", "request": { "method": "GET", "header": [ { "key": "x-access-token", "value": "{{auth_token}}" }, { "key": "x-client", "value": "{{client_id}}" } ], "url": { "raw": "{{base_url}}/addresses?page=1&perPage=10&query={}", "host": ["{{base_url}}"], "path": ["addresses"], "query": [{"key":"page","value":"1"},{"key":"perPage","value":"10"},{"key":"query","value":"{}"}] } } },
+      { "name": "get by id", "request": { "method": "GET", "header": [ { "key": "x-access-token", "value": "{{auth_token}}" }, { "key": "x-client", "value": "{{client_id}}" } ], "url": { "raw": "{{base_url}}/addresses/:id", "host": ["{{base_url}}"], "path": ["addresses",":id"] } } },
+      { "name": "update by id", "request": { "method": "PUT", "header": [ { "key": "Content-Type", "value": "application/json" }, { "key": "x-access-token", "value": "{{auth_token}}" }, { "key": "x-client", "value": "{{client_id}}" } ], "url": { "raw": "{{base_url}}/addresses/:id", "host": ["{{base_url}}"], "path": ["addresses",":id"] }, "body": { "mode": "raw", "raw": "{}" } } },
+      { "name": "delete by id", "request": { "method": "DELETE", "header": [ { "key": "x-access-token", "value": "{{auth_token}}" }, { "key": "x-client", "value": "{{client_id}}" } ], "url": { "raw": "{{base_url}}/addresses/:id", "host": ["{{base_url}}"], "path": ["addresses",":id"] } } },
+      { "name": "bulk delete", "request": { "method": "DELETE", "header": [ { "key": "Content-Type", "value": "application/json" }, { "key": "x-access-token", "value": "{{auth_token}}" }, { "key": "x-client", "value": "{{client_id}}" } ], "url": { "raw": "{{base_url}}/addresses", "host": ["{{base_url}}"], "path": ["addresses"] }, "body": { "mode": "raw", "raw": "{\n  \"ids\": [\n    \"66a7a0a6d1f1a2b3c4d5e6f7\",\n    \"66a7a0a6d1f1a2b3c4d5e6f8\"\n  ]\n}" } } },
+      { "name": "set default", "request": { "method": "POST", "header": [ { "key": "x-access-token", "value": "{{auth_token}}" }, { "key": "x-client", "value": "{{client_id}}" } ], "url": { "raw": "{{base_url}}/addresses/:id/default", "host": ["{{base_url}}"], "path": ["addresses",":id","default"] } } }
+    ] }
+  ]
+}

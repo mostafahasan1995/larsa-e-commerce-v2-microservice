@@ -1,0 +1,18 @@
+{
+    "exec": "go run ./cmd",
+    "ext": "go",
+    "ignore": [
+        ".git",
+        "node_modules/**/node_modules"
+    ],
+    "verbose": true,
+    "events": {
+        "start": "clear",
+        "restart": "clear"
+    },
+    "watch": [
+        "**/*.go",
+        ".env"
+    ],
+    "signal": "SIGTERM"
+}

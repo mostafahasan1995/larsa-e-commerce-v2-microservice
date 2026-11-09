@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html dir="ltr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Thank You for Your Feedback!</title>
+    <style>
+        body { 
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+            max-width: 600px; 
+            margin: 0 auto; 
+            padding: 20px; 
+            background-color: #f4f4f4;
+            direction: ltr;
+        }
+        .container {
+            background-color: white;
+            border-radius: 10px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            overflow: hidden;
+        }
+        .header { 
+            background: linear-gradient(135deg, #4CAF50, #45a049);
+            color: white; 
+            padding: 30px 20px; 
+            text-align: center; 
+        }
+        .header h1 {
+            margin: 0;
+            font-size: 28px;
+            font-weight: 300;
+        }
+        .content { 
+            padding: 30px 20px; 
+            background-color: #fff;
+        }
+        .content p {
+            line-height: 1.6;
+            color: #333;
+            margin-bottom: 20px;
+        }
+        .coupon { 
+            background: linear-gradient(135deg, #fff, #f8f9fa);
+            border: 2px dashed #4CAF50; 
+            padding: 25px; 
+            margin: 25px 0; 
+            text-align: center;
+            border-radius: 10px;
+        }
+        .coupon h3 {
+            color: #4CAF50;
+            margin: 0 0 15px 0;
+            font-size: 18px;
+        }
+        .coupon-code { 
+            font-size: 32px; 
+            font-weight: bold; 
+            color: #4CAF50; 
+            margin: 15px 0; 
+            padding: 10px 20px;
+            background-color: #e8f5e8;
+            border-radius: 5px;
+            letter-spacing: 2px;
+            font-family: 'Courier New', monospace;
+        }
+        .footer { 
+            text-align: center; 
+            padding: 20px; 
+            color: #666; 
+            background-color: #f8f9fa;
+            border-top: 1px solid #e9ecef;
+        }
+        .rating-info {
+            background-color: #fff3cd;
+            border: 1px solid #ffeaa7;
+            border-radius: 5px;
+            padding: 15px;
+            margin: 20px 0;
+            text-align: center;
+        }
+        .discount-value {
+            font-size: 24px;
+            font-weight: bold;
+            color: #4CAF50;
+            margin: 10px 0;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>Thank You for Your Feedback!</h1>
+        </div>
+        <div class="content">
+            <p><strong>Dear {{.ClientName}},</strong></p>
+            <p>Thank you for taking the time to share your feedback with us. Your opinion matters and helps us improve our services.</p>
+            <div class="rating-info">
+                <p><strong>⭐ Your Rating: {{printf "%.1f" .Rating}}/5.0 ⭐</strong></p>
+            </div>
+            <div class="coupon">
+                <h3>Here's a special discount for you:</h3>
+                <div class="discount-value">{{.DiscountText}}</div>
+                <div class="coupon-code">{{.CouponCode}}</div>
+                <p>Use this coupon code at checkout to enjoy your discount. Valid for 30 days.</p>
+            </div>
+        </div>
+        <div class="footer">
+            <p>Thank you for choosing our services!</p>
+        </div>
+    </div>
+</body>
+</html> 

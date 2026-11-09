@@ -1,0 +1,40 @@
+# env
+.env
+.air.toml
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Test binary, built with `go test -c`
+*.test
+
+# Output of the go coverage tool, specifically when used with LiteIDE
+*.out
+
+# Dependency directories (remove the comment below to include it)
+# vendor/
+
+# Go workspace file
+go.work
+.vscode/launch.json
+
+# IDEA
+.idea
+internal/modules/seed/utils/order.seed.go
+internal/modules/seed/utils/invoice.seed.go
+# internal/modules/seed/utils/seed.go
+
+examples
+tmp
+
+
+# local secrets and build output
+.env
+.env.*
+!.env.example
+!.env.template
+tmp/
+*.log
